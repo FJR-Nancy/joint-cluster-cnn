@@ -1,0 +1,1857 @@
+08-11 10:08 root         INFO     0.00 s, Begin to extract dataset
+08-11 10:08 root         INFO     0.05 s, Finished extracting USPS dataset
+08-11 10:08 root         INFO     0.07 s, Begin K means...
+08-11 10:08 root         INFO     11.56 s, K means is completed
+08-11 10:08 root         INFO     11.68 s, Begin to fit neighbour graph
+08-11 10:08 root         INFO     11.91 s, Finished fitting, begin to calculate Dis
+08-11 10:08 root         INFO     28.68 s, Finished the calculation of Dis, begin to calculate W
+08-11 10:08 root         INFO     29.18 s, Finished the calculation of W, begin to calculate A
+08-11 10:08 root         INFO     29.18 s, Calculating A..., j: 0
+08-11 10:08 root         INFO     29.18 s, Calculating A..., j: 1
+08-11 10:08 root         INFO     29.18 s, Calculating A..., j: 2
+08-11 10:08 root         INFO     29.19 s, Calculating A..., j: 3
+08-11 10:08 root         INFO     29.19 s, Calculating A..., j: 4
+08-11 10:08 root         INFO     29.19 s, Calculating A..., j: 5
+08-11 10:08 root         INFO     29.20 s, Calculating A..., j: 6
+08-11 10:08 root         INFO     29.21 s, Calculating A..., j: 7
+08-11 10:08 root         INFO     29.21 s, Calculating A..., j: 8
+08-11 10:08 root         INFO     29.22 s, Calculating A..., j: 9
+08-11 10:08 root         INFO     29.22 s, Calculating A..., j: 10
+08-11 10:08 root         INFO     29.25 s, Calculating A..., j: 11
+08-11 10:08 root         INFO     29.26 s, Calculating A..., j: 12
+08-11 10:08 root         INFO     29.29 s, Calculating A..., j: 13
+08-11 10:08 root         INFO     29.32 s, Calculating A..., j: 14
+08-11 10:08 root         INFO     29.34 s, Calculating A..., j: 15
+08-11 10:08 root         INFO     29.36 s, Calculating A..., j: 16
+08-11 10:08 root         INFO     29.38 s, Calculating A..., j: 17
+08-11 10:08 root         INFO     29.46 s, Calculating A..., j: 18
+08-11 10:08 root         INFO     29.50 s, Calculating A..., j: 19
+08-11 10:08 root         INFO     29.52 s, Calculating A..., j: 20
+08-11 10:08 root         INFO     29.54 s, Calculating A..., j: 21
+08-11 10:08 root         INFO     29.56 s, Calculating A..., j: 22
+08-11 10:08 root         INFO     29.58 s, Calculating A..., j: 23
+08-11 10:08 root         INFO     29.65 s, Calculating A..., j: 24
+08-11 10:08 root         INFO     29.76 s, Calculating A..., j: 25
+08-11 10:08 root         INFO     29.78 s, Calculating A..., j: 26
+08-11 10:08 root         INFO     29.80 s, Calculating A..., j: 27
+08-11 10:08 root         INFO     29.83 s, Calculating A..., j: 28
+08-11 10:08 root         INFO     29.87 s, Calculating A..., j: 29
+08-11 10:08 root         INFO     29.99 s, Calculating A..., j: 30
+08-11 10:08 root         INFO     30.01 s, Calculating A..., j: 31
+08-11 10:08 root         INFO     30.03 s, Calculating A..., j: 32
+08-11 10:08 root         INFO     30.07 s, Calculating A..., j: 33
+08-11 10:08 root         INFO     30.17 s, Calculating A..., j: 34
+08-11 10:08 root         INFO     30.21 s, Calculating A..., j: 35
+08-11 10:08 root         INFO     30.29 s, Calculating A..., j: 36
+08-11 10:08 root         INFO     30.33 s, Calculating A..., j: 37
+08-11 10:08 root         INFO     30.37 s, Calculating A..., j: 38
+08-11 10:08 root         INFO     30.49 s, Calculating A..., j: 39
+08-11 10:08 root         INFO     30.55 s, Calculating A..., j: 40
+08-11 10:08 root         INFO     30.59 s, Calculating A..., j: 41
+08-11 10:08 root         INFO     30.68 s, Calculating A..., j: 42
+08-11 10:08 root         INFO     30.75 s, Calculating A..., j: 43
+08-11 10:08 root         INFO     30.78 s, Calculating A..., j: 44
+08-11 10:08 root         INFO     30.88 s, Calculating A..., j: 45
+08-11 10:08 root         INFO     30.93 s, Calculating A..., j: 46
+08-11 10:08 root         INFO     31.14 s, Calculating A..., j: 47
+08-11 10:08 root         INFO     31.18 s, Calculating A..., j: 48
+08-11 10:08 root         INFO     31.32 s, Calculating A..., j: 49
+08-11 10:08 root         INFO     31.37 s, Calculating A..., j: 50
+08-11 10:08 root         INFO     31.44 s, Calculating A..., j: 51
+08-11 10:08 root         INFO     31.67 s, Calculating A..., j: 52
+08-11 10:08 root         INFO     31.79 s, Calculating A..., j: 53
+08-11 10:08 root         INFO     31.83 s, Calculating A..., j: 54
+08-11 10:08 root         INFO     31.88 s, Calculating A..., j: 55
+08-11 10:08 root         INFO     31.97 s, Calculating A..., j: 56
+08-11 10:08 root         INFO     32.04 s, Calculating A..., j: 57
+08-11 10:08 root         INFO     32.16 s, Calculating A..., j: 58
+08-11 10:08 root         INFO     32.20 s, Calculating A..., j: 59
+08-11 10:08 root         INFO     32.25 s, Calculating A..., j: 60
+08-11 10:08 root         INFO     32.33 s, Calculating A..., j: 61
+08-11 10:08 root         INFO     32.40 s, Calculating A..., j: 62
+08-11 10:08 root         INFO     32.47 s, Calculating A..., j: 63
+08-11 10:08 root         INFO     32.71 s, Calculating A..., j: 64
+08-11 10:08 root         INFO     32.78 s, Calculating A..., j: 65
+08-11 10:08 root         INFO     32.83 s, Calculating A..., j: 66
+08-11 10:08 root         INFO     32.90 s, Calculating A..., j: 67
+08-11 10:08 root         INFO     33.04 s, Calculating A..., j: 68
+08-11 10:08 root         INFO     33.10 s, Calculating A..., j: 69
+08-11 10:08 root         INFO     33.18 s, Calculating A..., j: 70
+08-11 10:08 root         INFO     33.22 s, Calculating A..., j: 71
+08-11 10:08 root         INFO     33.31 s, Calculating A..., j: 72
+08-11 10:08 root         INFO     33.44 s, Calculating A..., j: 73
+08-11 10:08 root         INFO     33.68 s, Calculating A..., j: 74
+08-11 10:08 root         INFO     33.97 s, Calculating A..., j: 75
+08-11 10:08 root         INFO     34.05 s, Calculating A..., j: 76
+08-11 10:08 root         INFO     34.11 s, Calculating A..., j: 77
+08-11 10:08 root         INFO     34.33 s, Calculating A..., j: 78
+08-11 10:08 root         INFO     34.59 s, Calculating A..., j: 79
+08-11 10:08 root         INFO     34.77 s, Calculating A..., j: 80
+08-11 10:08 root         INFO     34.93 s, Calculating A..., j: 81
+08-11 10:08 root         INFO     35.03 s, Calculating A..., j: 82
+08-11 10:08 root         INFO     35.11 s, Calculating A..., j: 83
+08-11 10:08 root         INFO     35.24 s, Calculating A..., j: 84
+08-11 10:08 root         INFO     35.32 s, Calculating A..., j: 85
+08-11 10:08 root         INFO     35.40 s, Calculating A..., j: 86
+08-11 10:08 root         INFO     35.52 s, Calculating A..., j: 87
+08-11 10:08 root         INFO     35.58 s, Calculating A..., j: 88
+08-11 10:08 root         INFO     35.64 s, Calculating A..., j: 89
+08-11 10:08 root         INFO     35.73 s, Calculating A..., j: 90
+08-11 10:08 root         INFO     35.83 s, Calculating A..., j: 91
+08-11 10:08 root         INFO     35.92 s, Calculating A..., j: 92
+08-11 10:08 root         INFO     36.05 s, Calculating A..., j: 93
+08-11 10:08 root         INFO     36.14 s, Calculating A..., j: 94
+08-11 10:08 root         INFO     36.23 s, Calculating A..., j: 95
+08-11 10:08 root         INFO     36.33 s, Calculating A..., j: 96
+08-11 10:08 root         INFO     36.44 s, Calculating A..., j: 97
+08-11 10:08 root         INFO     36.60 s, Calculating A..., j: 98
+08-11 10:08 root         INFO     36.70 s, Calculating A..., j: 99
+08-11 10:08 root         INFO     36.79 s, Calculating A..., j: 100
+08-11 10:08 root         INFO     36.90 s, Calculating A..., j: 101
+08-11 10:08 root         INFO     37.17 s, Calculating A..., j: 102
+08-11 10:08 root         INFO     37.29 s, Calculating A..., j: 103
+08-11 10:08 root         INFO     37.38 s, Calculating A..., j: 104
+08-11 10:08 root         INFO     37.81 s, Calculating A..., j: 105
+08-11 10:08 root         INFO     37.90 s, Calculating A..., j: 106
+08-11 10:08 root         INFO     38.25 s, Calculating A..., j: 107
+08-11 10:08 root         INFO     38.56 s, Calculating A..., j: 108
+08-11 10:08 root         INFO     38.65 s, Calculating A..., j: 109
+08-11 10:08 root         INFO     38.75 s, Calculating A..., j: 110
+08-11 10:08 root         INFO     38.93 s, Calculating A..., j: 111
+08-11 10:08 root         INFO     39.04 s, Calculating A..., j: 112
+08-11 10:08 root         INFO     39.21 s, Calculating A..., j: 113
+08-11 10:08 root         INFO     39.32 s, Calculating A..., j: 114
+08-11 10:08 root         INFO     39.47 s, Calculating A..., j: 115
+08-11 10:08 root         INFO     39.58 s, Calculating A..., j: 116
+08-11 10:08 root         INFO     39.67 s, Calculating A..., j: 117
+08-11 10:08 root         INFO     39.82 s, Calculating A..., j: 118
+08-11 10:08 root         INFO     39.92 s, Calculating A..., j: 119
+08-11 10:08 root         INFO     40.28 s, Calculating A..., j: 120
+08-11 10:08 root         INFO     40.36 s, Calculating A..., j: 121
+08-11 10:08 root         INFO     40.45 s, Calculating A..., j: 122
+08-11 10:08 root         INFO     40.59 s, Calculating A..., j: 123
+08-11 10:08 root         INFO     40.69 s, Calculating A..., j: 124
+08-11 10:08 root         INFO     40.79 s, Calculating A..., j: 125
+08-11 10:08 root         INFO     40.92 s, Calculating A..., j: 126
+08-11 10:08 root         INFO     41.01 s, Calculating A..., j: 127
+08-11 10:08 root         INFO     41.11 s, Calculating A..., j: 128
+08-11 10:08 root         INFO     41.44 s, Calculating A..., j: 129
+08-11 10:08 root         INFO     41.56 s, Calculating A..., j: 130
+08-11 10:08 root         INFO     41.88 s, Calculating A..., j: 131
+08-11 10:08 root         INFO     41.98 s, Calculating A..., j: 132
+08-11 10:08 root         INFO     42.05 s, Calculating A..., j: 133
+08-11 10:08 root         INFO     42.18 s, Calculating A..., j: 134
+08-11 10:08 root         INFO     42.26 s, Calculating A..., j: 135
+08-11 10:08 root         INFO     42.38 s, Calculating A..., j: 136
+08-11 10:08 root         INFO     42.76 s, Calculating A..., j: 137
+08-11 10:08 root         INFO     42.86 s, Calculating A..., j: 138
+08-11 10:08 root         INFO     42.96 s, Calculating A..., j: 139
+08-11 10:08 root         INFO     43.39 s, Calculating A..., j: 140
+08-11 10:08 root         INFO     43.56 s, Calculating A..., j: 141
+08-11 10:08 root         INFO     43.70 s, Calculating A..., j: 142
+08-11 10:08 root         INFO     43.80 s, Calculating A..., j: 143
+08-11 10:08 root         INFO     43.99 s, Calculating A..., j: 144
+08-11 10:08 root         INFO     44.11 s, Calculating A..., j: 145
+08-11 10:08 root         INFO     44.26 s, Calculating A..., j: 146
+08-11 10:08 root         INFO     44.40 s, Calculating A..., j: 147
+08-11 10:08 root         INFO     44.60 s, Calculating A..., j: 148
+08-11 10:08 root         INFO     45.18 s, Calculating A..., j: 149
+08-11 10:08 root         INFO     45.27 s, Calculating A..., j: 150
+08-11 10:08 root         INFO     45.47 s, Calculating A..., j: 151
+08-11 10:08 root         INFO     45.59 s, Calculating A..., j: 152
+08-11 10:08 root         INFO     45.74 s, Calculating A..., j: 153
+08-11 10:08 root         INFO     45.86 s, Calculating A..., j: 154
+08-11 10:08 root         INFO     46.28 s, Calculating A..., j: 155
+08-11 10:08 root         INFO     46.43 s, Calculating A..., j: 156
+08-11 10:08 root         INFO     46.65 s, Calculating A..., j: 157
+08-11 10:09 root         INFO     46.77 s, Calculating A..., j: 158
+08-11 10:09 root         INFO     46.91 s, Calculating A..., j: 159
+08-11 10:09 root         INFO     47.06 s, Calculating A..., j: 160
+08-11 10:09 root         INFO     47.29 s, Calculating A..., j: 161
+08-11 10:09 root         INFO     47.41 s, Calculating A..., j: 162
+08-11 10:09 root         INFO     47.60 s, Calculating A..., j: 163
+08-11 10:09 root         INFO     47.74 s, Calculating A..., j: 164
+08-11 10:09 root         INFO     47.93 s, Calculating A..., j: 165
+08-11 10:09 root         INFO     48.06 s, Calculating A..., j: 166
+08-11 10:09 root         INFO     48.25 s, Calculating A..., j: 167
+08-11 10:09 root         INFO     48.62 s, Calculating A..., j: 168
+08-11 10:09 root         INFO     48.76 s, Calculating A..., j: 169
+08-11 10:09 root         INFO     48.94 s, Calculating A..., j: 170
+08-11 10:09 root         INFO     49.10 s, Calculating A..., j: 171
+08-11 10:09 root         INFO     49.31 s, Calculating A..., j: 172
+08-11 10:09 root         INFO     49.45 s, Calculating A..., j: 173
+08-11 10:09 root         INFO     49.66 s, Calculating A..., j: 174
+08-11 10:09 root         INFO     49.82 s, Calculating A..., j: 175
+08-11 10:09 root         INFO     50.00 s, Calculating A..., j: 176
+08-11 10:09 root         INFO     50.17 s, Calculating A..., j: 177
+08-11 10:09 root         INFO     50.38 s, Calculating A..., j: 178
+08-11 10:09 root         INFO     50.92 s, Calculating A..., j: 179
+08-11 10:09 root         INFO     51.18 s, Calculating A..., j: 180
+08-11 10:09 root         INFO     51.33 s, Calculating A..., j: 181
+08-11 10:09 root         INFO     51.51 s, Calculating A..., j: 182
+08-11 10:09 root         INFO     51.92 s, Calculating A..., j: 183
+08-11 10:09 root         INFO     52.19 s, Calculating A..., j: 184
+08-11 10:09 root         INFO     52.36 s, Calculating A..., j: 185
+08-11 10:09 root         INFO     52.59 s, Calculating A..., j: 186
+08-11 10:09 root         INFO     52.77 s, Calculating A..., j: 187
+08-11 10:09 root         INFO     52.97 s, Calculating A..., j: 188
+08-11 10:09 root         INFO     53.13 s, Calculating A..., j: 189
+08-11 10:09 root         INFO     53.31 s, Calculating A..., j: 190
+08-11 10:09 root         INFO     53.45 s, Calculating A..., j: 191
+08-11 10:09 root         INFO     53.64 s, Calculating A..., j: 192
+08-11 10:09 root         INFO     53.77 s, Calculating A..., j: 193
+08-11 10:09 root         INFO     54.28 s, Calculating A..., j: 194
+08-11 10:09 root         INFO     54.48 s, Calculating A..., j: 195
+08-11 10:09 root         INFO     54.68 s, Calculating A..., j: 196
+08-11 10:09 root         INFO     54.81 s, Calculating A..., j: 197
+08-11 10:09 root         INFO     55.36 s, Calculating A..., j: 198
+08-11 10:09 root         INFO     55.49 s, Calculating A..., j: 199
+08-11 10:09 root         INFO     55.72 s, Calculating A..., j: 200
+08-11 10:09 root         INFO     55.86 s, Calculating A..., j: 201
+08-11 10:09 root         INFO     56.03 s, Calculating A..., j: 202
+08-11 10:09 root         INFO     56.19 s, Calculating A..., j: 203
+08-11 10:09 root         INFO     56.36 s, Calculating A..., j: 204
+08-11 10:09 root         INFO     56.52 s, Calculating A..., j: 205
+08-11 10:09 root         INFO     56.75 s, Calculating A..., j: 206
+08-11 10:09 root         INFO     56.88 s, Calculating A..., j: 207
+08-11 10:09 root         INFO     57.50 s, Calculating A..., j: 208
+08-11 10:09 root         INFO     57.78 s, Calculating A..., j: 209
+08-11 10:09 root         INFO     57.91 s, Calculating A..., j: 210
+08-11 10:09 root         INFO     58.11 s, Calculating A..., j: 211
+08-11 10:09 root         INFO     58.26 s, Calculating A..., j: 212
+08-11 10:09 root         INFO     58.44 s, Calculating A..., j: 213
+08-11 10:09 root         INFO     58.60 s, Calculating A..., j: 214
+08-11 10:09 root         INFO     59.03 s, Calculating A..., j: 215
+08-11 10:09 root         INFO     59.20 s, Calculating A..., j: 216
+08-11 10:09 root         INFO     59.43 s, Calculating A..., j: 217
+08-11 10:09 root         INFO     59.62 s, Calculating A..., j: 218
+08-11 10:09 root         INFO     59.82 s, Calculating A..., j: 219
+08-11 10:09 root         INFO     60.03 s, Calculating A..., j: 220
+08-11 10:09 root         INFO     60.24 s, Calculating A..., j: 221
+08-11 10:09 root         INFO     60.51 s, Calculating A..., j: 222
+08-11 10:09 root         INFO     60.67 s, Calculating A..., j: 223
+08-11 10:09 root         INFO     60.88 s, Calculating A..., j: 224
+08-11 10:09 root         INFO     61.04 s, Calculating A..., j: 225
+08-11 10:09 root         INFO     61.65 s, Calculating A..., j: 226
+08-11 10:09 root         INFO     61.94 s, Calculating A..., j: 227
+08-11 10:09 root         INFO     62.11 s, Calculating A..., j: 228
+08-11 10:09 root         INFO     62.31 s, Calculating A..., j: 229
+08-11 10:09 root         INFO     62.62 s, Calculating A..., j: 230
+08-11 10:09 root         INFO     62.84 s, Calculating A..., j: 231
+08-11 10:09 root         INFO     63.12 s, Calculating A..., j: 232
+08-11 10:09 root         INFO     63.27 s, Calculating A..., j: 233
+08-11 10:09 root         INFO     63.50 s, Calculating A..., j: 234
+08-11 10:09 root         INFO     63.77 s, Calculating A..., j: 235
+08-11 10:09 root         INFO     63.96 s, Calculating A..., j: 236
+08-11 10:09 root         INFO     64.17 s, Calculating A..., j: 237
+08-11 10:09 root         INFO     64.80 s, Calculating A..., j: 238
+08-11 10:09 root         INFO     64.97 s, Calculating A..., j: 239
+08-11 10:09 root         INFO     65.16 s, Calculating A..., j: 240
+08-11 10:09 root         INFO     65.43 s, Calculating A..., j: 241
+08-11 10:09 root         INFO     66.07 s, Calculating A..., j: 242
+08-11 10:09 root         INFO     66.27 s, Calculating A..., j: 243
+08-11 10:09 root         INFO     66.48 s, Calculating A..., j: 244
+08-11 10:09 root         INFO     66.77 s, Calculating A..., j: 245
+08-11 10:09 root         INFO     67.15 s, Calculating A..., j: 246
+08-11 10:09 root         INFO     67.32 s, Calculating A..., j: 247
+08-11 10:09 root         INFO     68.03 s, Calculating A..., j: 248
+08-11 10:09 root         INFO     68.39 s, Calculating A..., j: 249
+08-11 10:09 root         INFO     69.16 s, Calculating A..., j: 250
+08-11 10:09 root         INFO     69.48 s, Calculating A..., j: 251
+08-11 10:09 root         INFO     69.83 s, Calculating A..., j: 252
+08-11 10:09 root         INFO     70.02 s, Calculating A..., j: 253
+08-11 10:09 root         INFO     70.27 s, Calculating A..., j: 254
+08-11 10:09 root         INFO     70.45 s, Calculating A..., j: 255
+08-11 10:09 root         INFO     70.68 s, Calculating A..., j: 256
+08-11 10:09 root         INFO     70.96 s, Calculating A..., j: 257
+08-11 10:09 root         INFO     71.29 s, Calculating A..., j: 258
+08-11 10:09 root         INFO     71.59 s, Calculating A..., j: 259
+08-11 10:09 root         INFO     72.33 s, Calculating A..., j: 260
+08-11 10:09 root         INFO     72.65 s, Calculating A..., j: 261
+08-11 10:09 root         INFO     72.85 s, Calculating A..., j: 262
+08-11 10:09 root         INFO     73.60 s, Calculating A..., j: 263
+08-11 10:09 root         INFO     73.94 s, Calculating A..., j: 264
+08-11 10:09 root         INFO     74.11 s, Calculating A..., j: 265
+08-11 10:09 root         INFO     75.04 s, Calculating A..., j: 266
+08-11 10:09 root         INFO     75.43 s, Calculating A..., j: 267
+08-11 10:09 root         INFO     75.75 s, Calculating A..., j: 268
+08-11 10:09 root         INFO     75.94 s, Calculating A..., j: 269
+08-11 10:09 root         INFO     76.16 s, Calculating A..., j: 270
+08-11 10:09 root         INFO     76.40 s, Calculating A..., j: 271
+08-11 10:09 root         INFO     76.68 s, Calculating A..., j: 272
+08-11 10:09 root         INFO     76.93 s, Calculating A..., j: 273
+08-11 10:09 root         INFO     77.12 s, Calculating A..., j: 274
+08-11 10:09 root         INFO     77.82 s, Calculating A..., j: 275
+08-11 10:09 root         INFO     78.19 s, Calculating A..., j: 276
+08-11 10:09 root         INFO     78.29 s, Calculating A..., j: 277
+08-11 10:09 root         INFO     78.57 s, Calculating A..., j: 278
+08-11 10:09 root         INFO     78.89 s, Calculating A..., j: 279
+08-11 10:09 root         INFO     79.53 s, Calculating A..., j: 280
+08-11 10:09 root         INFO     79.72 s, Calculating A..., j: 281
+08-11 10:09 root         INFO     80.04 s, Calculating A..., j: 282
+08-11 10:09 root         INFO     80.36 s, Calculating A..., j: 283
+08-11 10:09 root         INFO     80.57 s, Calculating A..., j: 284
+08-11 10:09 root         INFO     80.82 s, Calculating A..., j: 285
+08-11 10:09 root         INFO     81.17 s, Calculating A..., j: 286
+08-11 10:09 root         INFO     81.36 s, Calculating A..., j: 287
+08-11 10:09 root         INFO     81.71 s, Calculating A..., j: 288
+08-11 10:09 root         INFO     81.88 s, Calculating A..., j: 289
+08-11 10:09 root         INFO     82.11 s, Calculating A..., j: 290
+08-11 10:09 root         INFO     82.37 s, Calculating A..., j: 291
+08-11 10:09 root         INFO     82.67 s, Calculating A..., j: 292
+08-11 10:09 root         INFO     82.88 s, Calculating A..., j: 293
+08-11 10:09 root         INFO     83.20 s, Calculating A..., j: 294
+08-11 10:09 root         INFO     83.50 s, Calculating A..., j: 295
+08-11 10:09 root         INFO     84.26 s, Calculating A..., j: 296
+08-11 10:09 root         INFO     84.62 s, Calculating A..., j: 297
+08-11 10:09 root         INFO     84.95 s, Calculating A..., j: 298
+08-11 10:09 root         INFO     85.14 s, Calculating A..., j: 299
+08-11 10:09 root         INFO     85.46 s, Calculating A..., j: 300
+08-11 10:09 root         INFO     85.74 s, Calculating A..., j: 301
+08-11 10:09 root         INFO     86.08 s, Calculating A..., j: 302
+08-11 10:09 root         INFO     86.39 s, Calculating A..., j: 303
+08-11 10:09 root         INFO     86.66 s, Calculating A..., j: 304
+08-11 10:09 root         INFO     87.48 s, Calculating A..., j: 305
+08-11 10:09 root         INFO     87.78 s, Calculating A..., j: 306
+08-11 10:09 root         INFO     88.06 s, Calculating A..., j: 307
+08-11 10:09 root         INFO     88.37 s, Calculating A..., j: 308
+08-11 10:09 root         INFO     89.17 s, Calculating A..., j: 309
+08-11 10:09 root         INFO     89.52 s, Calculating A..., j: 310
+08-11 10:09 root         INFO     89.80 s, Calculating A..., j: 311
+08-11 10:09 root         INFO     90.08 s, Calculating A..., j: 312
+08-11 10:09 root         INFO     90.27 s, Calculating A..., j: 313
+08-11 10:09 root         INFO     91.15 s, Calculating A..., j: 314
+08-11 10:09 root         INFO     91.51 s, Calculating A..., j: 315
+08-11 10:09 root         INFO     91.79 s, Calculating A..., j: 316
+08-11 10:09 root         INFO     92.06 s, Calculating A..., j: 317
+08-11 10:09 root         INFO     92.27 s, Calculating A..., j: 318
+08-11 10:09 root         INFO     92.63 s, Calculating A..., j: 319
+08-11 10:09 root         INFO     92.93 s, Calculating A..., j: 320
+08-11 10:09 root         INFO     93.24 s, Calculating A..., j: 321
+08-11 10:09 root         INFO     93.57 s, Calculating A..., j: 322
+08-11 10:09 root         INFO     93.94 s, Calculating A..., j: 323
+08-11 10:09 root         INFO     94.13 s, Calculating A..., j: 324
+08-11 10:09 root         INFO     94.40 s, Calculating A..., j: 325
+08-11 10:09 root         INFO     94.60 s, Calculating A..., j: 326
+08-11 10:09 root         INFO     94.88 s, Calculating A..., j: 327
+08-11 10:09 root         INFO     95.07 s, Calculating A..., j: 328
+08-11 10:09 root         INFO     95.30 s, Calculating A..., j: 329
+08-11 10:09 root         INFO     95.67 s, Calculating A..., j: 330
+08-11 10:09 root         INFO     95.94 s, Calculating A..., j: 331
+08-11 10:09 root         INFO     97.03 s, Calculating A..., j: 332
+08-11 10:09 root         INFO     97.46 s, Calculating A..., j: 333
+08-11 10:09 root         INFO     97.66 s, Calculating A..., j: 334
+08-11 10:09 root         INFO     98.03 s, Calculating A..., j: 335
+08-11 10:09 root         INFO     98.44 s, Calculating A..., j: 336
+08-11 10:09 root         INFO     98.75 s, Calculating A..., j: 337
+08-11 10:09 root         INFO     99.03 s, Calculating A..., j: 338
+08-11 10:09 root         INFO     99.32 s, Calculating A..., j: 339
+08-11 10:09 root         INFO     99.59 s, Calculating A..., j: 340
+08-11 10:09 root         INFO     99.85 s, Calculating A..., j: 341
+08-11 10:09 root         INFO     100.11 s, Calculating A..., j: 342
+08-11 10:09 root         INFO     101.15 s, Calculating A..., j: 343
+08-11 10:09 root         INFO     101.54 s, Calculating A..., j: 344
+08-11 10:09 root         INFO     101.96 s, Calculating A..., j: 345
+08-11 10:09 root         INFO     102.30 s, Calculating A..., j: 346
+08-11 10:09 root         INFO     102.52 s, Calculating A..., j: 347
+08-11 10:09 root         INFO     102.89 s, Calculating A..., j: 348
+08-11 10:09 root         INFO     103.24 s, Calculating A..., j: 349
+08-11 10:09 root         INFO     103.51 s, Calculating A..., j: 350
+08-11 10:09 root         INFO     103.89 s, Calculating A..., j: 351
+08-11 10:09 root         INFO     104.32 s, Calculating A..., j: 352
+08-11 10:09 root         INFO     104.68 s, Calculating A..., j: 353
+08-11 10:09 root         INFO     105.53 s, Calculating A..., j: 354
+08-11 10:09 root         INFO     105.93 s, Calculating A..., j: 355
+08-11 10:09 root         INFO     106.24 s, Calculating A..., j: 356
+08-11 10:09 root         INFO     106.62 s, Calculating A..., j: 357
+08-11 10:10 root         INFO     106.98 s, Calculating A..., j: 358
+08-11 10:10 root         INFO     107.32 s, Calculating A..., j: 359
+08-11 10:10 root         INFO     107.63 s, Calculating A..., j: 360
+08-11 10:10 root         INFO     107.94 s, Calculating A..., j: 361
+08-11 10:10 root         INFO     108.21 s, Calculating A..., j: 362
+08-11 10:10 root         INFO     108.50 s, Calculating A..., j: 363
+08-11 10:10 root         INFO     108.77 s, Calculating A..., j: 364
+08-11 10:10 root         INFO     109.09 s, Calculating A..., j: 365
+08-11 10:10 root         INFO     109.37 s, Calculating A..., j: 366
+08-11 10:10 root         INFO     109.68 s, Calculating A..., j: 367
+08-11 10:10 root         INFO     109.98 s, Calculating A..., j: 368
+08-11 10:10 root         INFO     110.44 s, Calculating A..., j: 369
+08-11 10:10 root         INFO     110.71 s, Calculating A..., j: 370
+08-11 10:10 root         INFO     111.01 s, Calculating A..., j: 371
+08-11 10:10 root         INFO     111.33 s, Calculating A..., j: 372
+08-11 10:10 root         INFO     111.63 s, Calculating A..., j: 373
+08-11 10:10 root         INFO     111.93 s, Calculating A..., j: 374
+08-11 10:10 root         INFO     112.35 s, Calculating A..., j: 375
+08-11 10:10 root         INFO     112.71 s, Calculating A..., j: 376
+08-11 10:10 root         INFO     113.02 s, Calculating A..., j: 377
+08-11 10:10 root         INFO     113.39 s, Calculating A..., j: 378
+08-11 10:10 root         INFO     113.65 s, Calculating A..., j: 379
+08-11 10:10 root         INFO     113.98 s, Calculating A..., j: 380
+08-11 10:10 root         INFO     114.35 s, Calculating A..., j: 381
+08-11 10:10 root         INFO     114.65 s, Calculating A..., j: 382
+08-11 10:10 root         INFO     116.06 s, Calculating A..., j: 383
+08-11 10:10 root         INFO     116.34 s, Calculating A..., j: 384
+08-11 10:10 root         INFO     116.69 s, Calculating A..., j: 385
+08-11 10:10 root         INFO     117.06 s, Calculating A..., j: 386
+08-11 10:10 root         INFO     117.41 s, Calculating A..., j: 387
+08-11 10:10 root         INFO     117.68 s, Calculating A..., j: 388
+08-11 10:10 root         INFO     118.07 s, Calculating A..., j: 389
+08-11 10:10 root         INFO     118.48 s, Calculating A..., j: 390
+08-11 10:10 root         INFO     118.85 s, Calculating A..., j: 391
+08-11 10:10 root         INFO     119.11 s, Calculating A..., j: 392
+08-11 10:10 root         INFO     119.44 s, Calculating A..., j: 393
+08-11 10:10 root         INFO     119.83 s, Calculating A..., j: 394
+08-11 10:10 root         INFO     120.75 s, Calculating A..., j: 395
+08-11 10:10 root         INFO     122.06 s, Calculating A..., j: 396
+08-11 10:10 root         INFO     122.39 s, Calculating A..., j: 397
+08-11 10:10 root         INFO     122.89 s, Calculating A..., j: 398
+08-11 10:10 root         INFO     123.18 s, Calculating A..., j: 399
+08-11 10:10 root         INFO     123.56 s, Calculating A..., j: 400
+08-11 10:10 root         INFO     123.92 s, Calculating A..., j: 401
+08-11 10:10 root         INFO     124.19 s, Calculating A..., j: 402
+08-11 10:10 root         INFO     124.63 s, Calculating A..., j: 403
+08-11 10:10 root         INFO     125.00 s, Calculating A..., j: 404
+08-11 10:10 root         INFO     125.12 s, Calculating A..., j: 405
+08-11 10:10 root         INFO     125.49 s, Calculating A..., j: 406
+08-11 10:10 root         INFO     125.77 s, Calculating A..., j: 407
+08-11 10:10 root         INFO     126.13 s, Calculating A..., j: 408
+08-11 10:10 root         INFO     127.31 s, Calculating A..., j: 409
+08-11 10:10 root         INFO     127.69 s, Calculating A..., j: 410
+08-11 10:10 root         INFO     128.11 s, Calculating A..., j: 411
+08-11 10:10 root         INFO     128.43 s, Calculating A..., j: 412
+08-11 10:10 root         INFO     128.79 s, Calculating A..., j: 413
+08-11 10:10 root         INFO     129.19 s, Calculating A..., j: 414
+08-11 10:10 root         INFO     129.48 s, Calculating A..., j: 415
+08-11 10:10 root         INFO     129.81 s, Calculating A..., j: 416
+08-11 10:10 root         INFO     130.17 s, Calculating A..., j: 417
+08-11 10:10 root         INFO     131.23 s, Calculating A..., j: 418
+08-11 10:10 root         INFO     131.63 s, Calculating A..., j: 419
+08-11 10:10 root         INFO     132.75 s, Calculating A..., j: 420
+08-11 10:10 root         INFO     133.16 s, Calculating A..., j: 421
+08-11 10:10 root         INFO     133.48 s, Calculating A..., j: 422
+08-11 10:10 root         INFO     133.85 s, Calculating A..., j: 423
+08-11 10:10 root         INFO     134.30 s, Calculating A..., j: 424
+08-11 10:10 root         INFO     134.76 s, Calculating A..., j: 425
+08-11 10:10 root         INFO     135.07 s, Calculating A..., j: 426
+08-11 10:10 root         INFO     135.42 s, Calculating A..., j: 427
+08-11 10:10 root         INFO     135.75 s, Calculating A..., j: 428
+08-11 10:10 root         INFO     136.06 s, Calculating A..., j: 429
+08-11 10:10 root         INFO     136.42 s, Calculating A..., j: 430
+08-11 10:10 root         INFO     136.75 s, Calculating A..., j: 431
+08-11 10:10 root         INFO     137.09 s, Calculating A..., j: 432
+08-11 10:10 root         INFO     137.59 s, Calculating A..., j: 433
+08-11 10:10 root         INFO     138.03 s, Calculating A..., j: 434
+08-11 10:10 root         INFO     138.37 s, Calculating A..., j: 435
+08-11 10:10 root         INFO     138.72 s, Calculating A..., j: 436
+08-11 10:10 root         INFO     139.09 s, Calculating A..., j: 437
+08-11 10:10 root         INFO     139.63 s, Calculating A..., j: 438
+08-11 10:10 root         INFO     139.98 s, Calculating A..., j: 439
+08-11 10:10 root         INFO     140.39 s, Calculating A..., j: 440
+08-11 10:10 root         INFO     140.52 s, Calculating A..., j: 441
+08-11 10:10 root         INFO     140.85 s, Calculating A..., j: 442
+08-11 10:10 root         INFO     141.17 s, Calculating A..., j: 443
+08-11 10:10 root         INFO     142.59 s, Calculating A..., j: 444
+08-11 10:10 root         INFO     143.09 s, Calculating A..., j: 445
+08-11 10:10 root         INFO     143.40 s, Calculating A..., j: 446
+08-11 10:10 root         INFO     143.96 s, Calculating A..., j: 447
+08-11 10:10 root         INFO     144.63 s, Calculating A..., j: 448
+08-11 10:10 root         INFO     145.04 s, Calculating A..., j: 449
+08-11 10:10 root         INFO     145.52 s, Calculating A..., j: 450
+08-11 10:10 root         INFO     145.84 s, Calculating A..., j: 451
+08-11 10:10 root         INFO     146.14 s, Calculating A..., j: 452
+08-11 10:10 root         INFO     146.59 s, Calculating A..., j: 453
+08-11 10:10 root         INFO     146.92 s, Calculating A..., j: 454
+08-11 10:10 root         INFO     147.28 s, Calculating A..., j: 455
+08-11 10:10 root         INFO     147.77 s, Calculating A..., j: 456
+08-11 10:10 root         INFO     148.09 s, Calculating A..., j: 457
+08-11 10:10 root         INFO     148.42 s, Calculating A..., j: 458
+08-11 10:10 root         INFO     148.72 s, Calculating A..., j: 459
+08-11 10:10 root         INFO     149.06 s, Calculating A..., j: 460
+08-11 10:10 root         INFO     149.35 s, Calculating A..., j: 461
+08-11 10:10 root         INFO     149.65 s, Calculating A..., j: 462
+08-11 10:10 root         INFO     150.03 s, Calculating A..., j: 463
+08-11 10:10 root         INFO     150.35 s, Calculating A..., j: 464
+08-11 10:10 root         INFO     150.62 s, Calculating A..., j: 465
+08-11 10:10 root         INFO     151.68 s, Calculating A..., j: 466
+08-11 10:10 root         INFO     152.02 s, Calculating A..., j: 467
+08-11 10:10 root         INFO     152.33 s, Calculating A..., j: 468
+08-11 10:10 root         INFO     152.73 s, Calculating A..., j: 469
+08-11 10:10 root         INFO     153.06 s, Calculating A..., j: 470
+08-11 10:10 root         INFO     153.49 s, Calculating A..., j: 471
+08-11 10:10 root         INFO     153.85 s, Calculating A..., j: 472
+08-11 10:10 root         INFO     154.20 s, Calculating A..., j: 473
+08-11 10:10 root         INFO     154.59 s, Calculating A..., j: 474
+08-11 10:10 root         INFO     154.96 s, Calculating A..., j: 475
+08-11 10:10 root         INFO     155.23 s, Calculating A..., j: 476
+08-11 10:10 root         INFO     155.54 s, Calculating A..., j: 477
+08-11 10:10 root         INFO     155.86 s, Calculating A..., j: 478
+08-11 10:10 root         INFO     156.79 s, Calculating A..., j: 479
+08-11 10:10 root         INFO     157.10 s, Calculating A..., j: 480
+08-11 10:10 root         INFO     157.49 s, Calculating A..., j: 481
+08-11 10:10 root         INFO     157.95 s, Calculating A..., j: 482
+08-11 10:10 root         INFO     158.27 s, Calculating A..., j: 483
+08-11 10:10 root         INFO     158.68 s, Calculating A..., j: 484
+08-11 10:10 root         INFO     159.11 s, Calculating A..., j: 485
+08-11 10:10 root         INFO     159.49 s, Calculating A..., j: 486
+08-11 10:10 root         INFO     159.86 s, Calculating A..., j: 487
+08-11 10:10 root         INFO     160.21 s, Calculating A..., j: 488
+08-11 10:10 root         INFO     160.62 s, Calculating A..., j: 489
+08-11 10:10 root         INFO     160.92 s, Calculating A..., j: 490
+08-11 10:10 root         INFO     161.29 s, Calculating A..., j: 491
+08-11 10:10 root         INFO     161.83 s, Calculating A..., j: 492
+08-11 10:10 root         INFO     162.24 s, Calculating A..., j: 493
+08-11 10:10 root         INFO     162.70 s, Calculating A..., j: 494
+08-11 10:10 root         INFO     163.33 s, Calculating A..., j: 495
+08-11 10:10 root         INFO     163.84 s, Calculating A..., j: 496
+08-11 10:10 root         INFO     164.77 s, Calculating A..., j: 497
+08-11 10:10 root         INFO     165.18 s, Calculating A..., j: 498
+08-11 10:10 root         INFO     165.64 s, Calculating A..., j: 499
+08-11 10:10 root         INFO     166.08 s, Calculating A..., j: 500
+08-11 10:10 root         INFO     166.46 s, Calculating A..., j: 501
+08-11 10:11 root         INFO     166.96 s, Calculating A..., j: 502
+08-11 10:11 root         INFO     167.54 s, Calculating A..., j: 503
+08-11 10:11 root         INFO     168.31 s, Calculating A..., j: 504
+08-11 10:11 root         INFO     168.84 s, Calculating A..., j: 505
+08-11 10:11 root         INFO     169.23 s, Calculating A..., j: 506
+08-11 10:11 root         INFO     169.69 s, Calculating A..., j: 507
+08-11 10:11 root         INFO     170.20 s, Calculating A..., j: 508
+08-11 10:11 root         INFO     170.69 s, Calculating A..., j: 509
+08-11 10:11 root         INFO     171.13 s, Calculating A..., j: 510
+08-11 10:11 root         INFO     172.58 s, Calculating A..., j: 511
+08-11 10:11 root         INFO     174.25 s, Calculating A..., j: 512
+08-11 10:11 root         INFO     174.77 s, Calculating A..., j: 513
+08-11 10:11 root         INFO     175.18 s, Calculating A..., j: 514
+08-11 10:11 root         INFO     175.53 s, Calculating A..., j: 515
+08-11 10:11 root         INFO     175.92 s, Calculating A..., j: 516
+08-11 10:11 root         INFO     176.31 s, Calculating A..., j: 517
+08-11 10:11 root         INFO     177.91 s, Calculating A..., j: 518
+08-11 10:11 root         INFO     178.24 s, Calculating A..., j: 519
+08-11 10:11 root         INFO     178.68 s, Calculating A..., j: 520
+08-11 10:11 root         INFO     179.10 s, Calculating A..., j: 521
+08-11 10:11 root         INFO     179.63 s, Calculating A..., j: 522
+08-11 10:11 root         INFO     180.05 s, Calculating A..., j: 523
+08-11 10:11 root         INFO     180.50 s, Calculating A..., j: 524
+08-11 10:11 root         INFO     180.87 s, Calculating A..., j: 525
+08-11 10:11 root         INFO     182.28 s, Calculating A..., j: 526
+08-11 10:11 root         INFO     182.63 s, Calculating A..., j: 527
+08-11 10:11 root         INFO     183.06 s, Calculating A..., j: 528
+08-11 10:11 root         INFO     183.50 s, Calculating A..., j: 529
+08-11 10:11 root         INFO     183.90 s, Calculating A..., j: 530
+08-11 10:11 root         INFO     184.27 s, Calculating A..., j: 531
+08-11 10:11 root         INFO     184.71 s, Calculating A..., j: 532
+08-11 10:11 root         INFO     185.09 s, Calculating A..., j: 533
+08-11 10:11 root         INFO     185.51 s, Calculating A..., j: 534
+08-11 10:11 root         INFO     185.85 s, Calculating A..., j: 535
+08-11 10:11 root         INFO     186.22 s, Calculating A..., j: 536
+08-11 10:11 root         INFO     186.60 s, Calculating A..., j: 537
+08-11 10:11 root         INFO     186.97 s, Calculating A..., j: 538
+08-11 10:11 root         INFO     188.06 s, Calculating A..., j: 539
+08-11 10:11 root         INFO     188.77 s, Calculating A..., j: 540
+08-11 10:11 root         INFO     189.44 s, Calculating A..., j: 541
+08-11 10:11 root         INFO     189.98 s, Calculating A..., j: 542
+08-11 10:11 root         INFO     190.36 s, Calculating A..., j: 543
+08-11 10:11 root         INFO     190.76 s, Calculating A..., j: 544
+08-11 10:11 root         INFO     191.12 s, Calculating A..., j: 545
+08-11 10:11 root         INFO     191.63 s, Calculating A..., j: 546
+08-11 10:11 root         INFO     192.15 s, Calculating A..., j: 547
+08-11 10:11 root         INFO     192.57 s, Calculating A..., j: 548
+08-11 10:11 root         INFO     192.89 s, Calculating A..., j: 549
+08-11 10:11 root         INFO     193.25 s, Calculating A..., j: 550
+08-11 10:11 root         INFO     193.57 s, Calculating A..., j: 551
+08-11 10:11 root         INFO     193.95 s, Calculating A..., j: 552
+08-11 10:11 root         INFO     194.37 s, Calculating A..., j: 553
+08-11 10:11 root         INFO     194.71 s, Calculating A..., j: 554
+08-11 10:11 root         INFO     195.17 s, Calculating A..., j: 555
+08-11 10:11 root         INFO     195.62 s, Calculating A..., j: 556
+08-11 10:11 root         INFO     196.01 s, Calculating A..., j: 557
+08-11 10:11 root         INFO     196.47 s, Calculating A..., j: 558
+08-11 10:11 root         INFO     197.97 s, Calculating A..., j: 559
+08-11 10:11 root         INFO     198.34 s, Calculating A..., j: 560
+08-11 10:11 root         INFO     198.65 s, Calculating A..., j: 561
+08-11 10:11 root         INFO     199.00 s, Calculating A..., j: 562
+08-11 10:11 root         INFO     199.29 s, Calculating A..., j: 563
+08-11 10:11 root         INFO     199.68 s, Calculating A..., j: 564
+08-11 10:11 root         INFO     200.03 s, Calculating A..., j: 565
+08-11 10:11 root         INFO     200.35 s, Calculating A..., j: 566
+08-11 10:11 root         INFO     200.69 s, Calculating A..., j: 567
+08-11 10:11 root         INFO     202.27 s, Calculating A..., j: 568
+08-11 10:11 root         INFO     202.62 s, Calculating A..., j: 569
+08-11 10:11 root         INFO     202.95 s, Calculating A..., j: 570
+08-11 10:11 root         INFO     203.35 s, Calculating A..., j: 571
+08-11 10:11 root         INFO     204.63 s, Calculating A..., j: 572
+08-11 10:11 root         INFO     204.97 s, Calculating A..., j: 573
+08-11 10:11 root         INFO     205.33 s, Calculating A..., j: 574
+08-11 10:11 root         INFO     205.73 s, Calculating A..., j: 575
+08-11 10:11 root         INFO     206.10 s, Calculating A..., j: 576
+08-11 10:11 root         INFO     206.42 s, Calculating A..., j: 577
+08-11 10:11 root         INFO     206.91 s, Calculating A..., j: 578
+08-11 10:11 root         INFO     207.31 s, Calculating A..., j: 579
+08-11 10:11 root         INFO     207.72 s, Calculating A..., j: 580
+08-11 10:11 root         INFO     208.15 s, Calculating A..., j: 581
+08-11 10:11 root         INFO     208.58 s, Calculating A..., j: 582
+08-11 10:11 root         INFO     208.93 s, Calculating A..., j: 583
+08-11 10:11 root         INFO     209.24 s, Calculating A..., j: 584
+08-11 10:11 root         INFO     209.56 s, Calculating A..., j: 585
+08-11 10:11 root         INFO     209.96 s, Calculating A..., j: 586
+08-11 10:11 root         INFO     211.87 s, Calculating A..., j: 587
+08-11 10:11 root         INFO     212.22 s, Calculating A..., j: 588
+08-11 10:11 root         INFO     212.52 s, Calculating A..., j: 589
+08-11 10:11 root         INFO     212.90 s, Calculating A..., j: 590
+08-11 10:11 root         INFO     214.25 s, Calculating A..., j: 591
+08-11 10:11 root         INFO     214.63 s, Calculating A..., j: 592
+08-11 10:11 root         INFO     215.02 s, Calculating A..., j: 593
+08-11 10:11 root         INFO     216.17 s, Calculating A..., j: 594
+08-11 10:11 root         INFO     216.62 s, Calculating A..., j: 595
+08-11 10:11 root         INFO     217.12 s, Calculating A..., j: 596
+08-11 10:11 root         INFO     217.55 s, Calculating A..., j: 597
+08-11 10:11 root         INFO     217.94 s, Calculating A..., j: 598
+08-11 10:11 root         INFO     218.28 s, Calculating A..., j: 599
+08-11 10:11 root         INFO     218.70 s, Calculating A..., j: 600
+08-11 10:11 root         INFO     219.05 s, Calculating A..., j: 601
+08-11 10:11 root         INFO     219.46 s, Calculating A..., j: 602
+08-11 10:11 root         INFO     219.81 s, Calculating A..., j: 603
+08-11 10:11 root         INFO     221.03 s, Calculating A..., j: 604
+08-11 10:11 root         INFO     221.36 s, Calculating A..., j: 605
+08-11 10:11 root         INFO     221.79 s, Calculating A..., j: 606
+08-11 10:11 root         INFO     223.11 s, Calculating A..., j: 607
+08-11 10:11 root         INFO     223.63 s, Calculating A..., j: 608
+08-11 10:11 root         INFO     224.00 s, Calculating A..., j: 609
+08-11 10:11 root         INFO     224.37 s, Calculating A..., j: 610
+08-11 10:11 root         INFO     224.73 s, Calculating A..., j: 611
+08-11 10:11 root         INFO     225.07 s, Calculating A..., j: 612
+08-11 10:11 root         INFO     225.39 s, Calculating A..., j: 613
+08-11 10:11 root         INFO     226.65 s, Calculating A..., j: 614
+08-11 10:12 root         INFO     227.10 s, Calculating A..., j: 615
+08-11 10:12 root         INFO     227.51 s, Calculating A..., j: 616
+08-11 10:12 root         INFO     227.98 s, Calculating A..., j: 617
+08-11 10:12 root         INFO     229.47 s, Calculating A..., j: 618
+08-11 10:12 root         INFO     230.01 s, Calculating A..., j: 619
+08-11 10:12 root         INFO     230.59 s, Calculating A..., j: 620
+08-11 10:12 root         INFO     231.03 s, Calculating A..., j: 621
+08-11 10:12 root         INFO     231.76 s, Calculating A..., j: 622
+08-11 10:12 root         INFO     232.25 s, Calculating A..., j: 623
+08-11 10:12 root         INFO     232.91 s, Calculating A..., j: 624
+08-11 10:12 root         INFO     233.35 s, Calculating A..., j: 625
+08-11 10:12 root         INFO     234.03 s, Calculating A..., j: 626
+08-11 10:12 root         INFO     234.61 s, Calculating A..., j: 627
+08-11 10:12 root         INFO     235.12 s, Calculating A..., j: 628
+08-11 10:12 root         INFO     235.53 s, Calculating A..., j: 629
+08-11 10:12 root         INFO     236.11 s, Calculating A..., j: 630
+08-11 10:12 root         INFO     237.97 s, Calculating A..., j: 631
+08-11 10:12 root         INFO     238.40 s, Calculating A..., j: 632
+08-11 10:12 root         INFO     238.93 s, Calculating A..., j: 633
+08-11 10:12 root         INFO     239.37 s, Calculating A..., j: 634
+08-11 10:12 root         INFO     239.78 s, Calculating A..., j: 635
+08-11 10:12 root         INFO     240.25 s, Calculating A..., j: 636
+08-11 10:12 root         INFO     240.75 s, Calculating A..., j: 637
+08-11 10:12 root         INFO     242.27 s, Calculating A..., j: 638
+08-11 10:12 root         INFO     242.75 s, Calculating A..., j: 639
+08-11 10:12 root         INFO     243.26 s, Calculating A..., j: 640
+08-11 10:12 root         INFO     243.76 s, Calculating A..., j: 641
+08-11 10:12 root         INFO     244.19 s, Calculating A..., j: 642
+08-11 10:12 root         INFO     246.28 s, Calculating A..., j: 643
+08-11 10:12 root         INFO     246.81 s, Calculating A..., j: 644
+08-11 10:12 root         INFO     248.50 s, Calculating A..., j: 645
+08-11 10:12 root         INFO     248.97 s, Calculating A..., j: 646
+08-11 10:12 root         INFO     249.39 s, Calculating A..., j: 647
+08-11 10:12 root         INFO     249.94 s, Calculating A..., j: 648
+08-11 10:12 root         INFO     251.87 s, Calculating A..., j: 649
+08-11 10:12 root         INFO     252.33 s, Calculating A..., j: 650
+08-11 10:12 root         INFO     252.78 s, Calculating A..., j: 651
+08-11 10:12 root         INFO     253.40 s, Calculating A..., j: 652
+08-11 10:12 root         INFO     253.96 s, Calculating A..., j: 653
+08-11 10:12 root         INFO     254.41 s, Calculating A..., j: 654
+08-11 10:12 root         INFO     254.86 s, Calculating A..., j: 655
+08-11 10:12 root         INFO     255.42 s, Calculating A..., j: 656
+08-11 10:12 root         INFO     255.88 s, Calculating A..., j: 657
+08-11 10:12 root         INFO     256.41 s, Calculating A..., j: 658
+08-11 10:12 root         INFO     256.93 s, Calculating A..., j: 659
+08-11 10:12 root         INFO     257.42 s, Calculating A..., j: 660
+08-11 10:12 root         INFO     258.12 s, Calculating A..., j: 661
+08-11 10:12 root         INFO     258.72 s, Calculating A..., j: 662
+08-11 10:12 root         INFO     259.30 s, Calculating A..., j: 663
+08-11 10:12 root         INFO     259.77 s, Calculating A..., j: 664
+08-11 10:12 root         INFO     262.00 s, Calculating A..., j: 665
+08-11 10:12 root         INFO     262.47 s, Calculating A..., j: 666
+08-11 10:12 root         INFO     265.04 s, Calculating A..., j: 667
+08-11 10:12 root         INFO     265.73 s, Calculating A..., j: 668
+08-11 10:12 root         INFO     266.35 s, Calculating A..., j: 669
+08-11 10:12 root         INFO     266.82 s, Calculating A..., j: 670
+08-11 10:12 root         INFO     267.27 s, Calculating A..., j: 671
+08-11 10:12 root         INFO     267.77 s, Calculating A..., j: 672
+08-11 10:12 root         INFO     268.25 s, Calculating A..., j: 673
+08-11 10:12 root         INFO     268.85 s, Calculating A..., j: 674
+08-11 10:12 root         INFO     269.46 s, Calculating A..., j: 675
+08-11 10:12 root         INFO     270.00 s, Calculating A..., j: 676
+08-11 10:12 root         INFO     270.73 s, Calculating A..., j: 677
+08-11 10:12 root         INFO     272.60 s, Calculating A..., j: 678
+08-11 10:12 root         INFO     273.21 s, Calculating A..., j: 679
+08-11 10:12 root         INFO     273.72 s, Calculating A..., j: 680
+08-11 10:12 root         INFO     274.56 s, Calculating A..., j: 681
+08-11 10:12 root         INFO     276.64 s, Calculating A..., j: 682
+08-11 10:12 root         INFO     277.12 s, Calculating A..., j: 683
+08-11 10:12 root         INFO     277.92 s, Calculating A..., j: 684
+08-11 10:12 root         INFO     279.56 s, Calculating A..., j: 685
+08-11 10:12 root         INFO     280.12 s, Calculating A..., j: 686
+08-11 10:12 root         INFO     282.37 s, Calculating A..., j: 687
+08-11 10:12 root         INFO     282.84 s, Calculating A..., j: 688
+08-11 10:12 root         INFO     283.37 s, Calculating A..., j: 689
+08-11 10:12 root         INFO     283.99 s, Calculating A..., j: 690
+08-11 10:12 root         INFO     284.46 s, Calculating A..., j: 691
+08-11 10:12 root         INFO     285.09 s, Calculating A..., j: 692
+08-11 10:12 root         INFO     285.88 s, Calculating A..., j: 693
+08-11 10:12 root         INFO     286.52 s, Calculating A..., j: 694
+08-11 10:13 root         INFO     288.05 s, Calculating A..., j: 695
+08-11 10:13 root         INFO     288.58 s, Calculating A..., j: 696
+08-11 10:13 root         INFO     289.10 s, Calculating A..., j: 697
+08-11 10:13 root         INFO     289.59 s, Calculating A..., j: 698
+08-11 10:13 root         INFO     290.07 s, Calculating A..., j: 699
+08-11 10:13 root         INFO     291.85 s, Calculating A..., j: 700
+08-11 10:13 root         INFO     292.56 s, Calculating A..., j: 701
+08-11 10:13 root         INFO     293.09 s, Calculating A..., j: 702
+08-11 10:13 root         INFO     293.57 s, Calculating A..., j: 703
+08-11 10:13 root         INFO     294.01 s, Calculating A..., j: 704
+08-11 10:13 root         INFO     296.26 s, Calculating A..., j: 705
+08-11 10:13 root         INFO     296.72 s, Calculating A..., j: 706
+08-11 10:13 root         INFO     299.03 s, Calculating A..., j: 707
+08-11 10:13 root         INFO     299.51 s, Calculating A..., j: 708
+08-11 10:13 root         INFO     300.04 s, Calculating A..., j: 709
+08-11 10:13 root         INFO     300.53 s, Calculating A..., j: 710
+08-11 10:13 root         INFO     301.20 s, Calculating A..., j: 711
+08-11 10:13 root         INFO     303.18 s, Calculating A..., j: 712
+08-11 10:13 root         INFO     303.83 s, Calculating A..., j: 713
+08-11 10:13 root         INFO     304.45 s, Calculating A..., j: 714
+08-11 10:13 root         INFO     305.08 s, Calculating A..., j: 715
+08-11 10:13 root         INFO     307.01 s, Calculating A..., j: 716
+08-11 10:13 root         INFO     309.24 s, Calculating A..., j: 717
+08-11 10:13 root         INFO     310.04 s, Calculating A..., j: 718
+08-11 10:13 root         INFO     311.99 s, Calculating A..., j: 719
+08-11 10:13 root         INFO     312.60 s, Calculating A..., j: 720
+08-11 10:13 root         INFO     313.04 s, Calculating A..., j: 721
+08-11 10:13 root         INFO     313.81 s, Calculating A..., j: 722
+08-11 10:13 root         INFO     314.31 s, Calculating A..., j: 723
+08-11 10:13 root         INFO     314.78 s, Calculating A..., j: 724
+08-11 10:13 root         INFO     315.29 s, Calculating A..., j: 725
+08-11 10:13 root         INFO     315.84 s, Calculating A..., j: 726
+08-11 10:13 root         INFO     316.32 s, Calculating A..., j: 727
+08-11 10:13 root         INFO     316.88 s, Calculating A..., j: 728
+08-11 10:13 root         INFO     317.45 s, Calculating A..., j: 729
+08-11 10:13 root         INFO     318.19 s, Calculating A..., j: 730
+08-11 10:13 root         INFO     318.75 s, Calculating A..., j: 731
+08-11 10:13 root         INFO     319.02 s, Calculating A..., j: 732
+08-11 10:13 root         INFO     319.51 s, Calculating A..., j: 733
+08-11 10:13 root         INFO     320.06 s, Calculating A..., j: 734
+08-11 10:13 root         INFO     321.01 s, Calculating A..., j: 735
+08-11 10:13 root         INFO     321.89 s, Calculating A..., j: 736
+08-11 10:13 root         INFO     322.60 s, Calculating A..., j: 737
+08-11 10:13 root         INFO     323.10 s, Calculating A..., j: 738
+08-11 10:13 root         INFO     323.55 s, Calculating A..., j: 739
+08-11 10:13 root         INFO     324.15 s, Calculating A..., j: 740
+08-11 10:13 root         INFO     324.72 s, Calculating A..., j: 741
+08-11 10:13 root         INFO     325.33 s, Calculating A..., j: 742
+08-11 10:13 root         INFO     326.02 s, Calculating A..., j: 743
+08-11 10:13 root         INFO     326.52 s, Calculating A..., j: 744
+08-11 10:13 root         INFO     327.02 s, Calculating A..., j: 745
+08-11 10:13 root         INFO     327.65 s, Calculating A..., j: 746
+08-11 10:13 root         INFO     328.24 s, Calculating A..., j: 747
+08-11 10:13 root         INFO     328.70 s, Calculating A..., j: 748
+08-11 10:13 root         INFO     330.71 s, Calculating A..., j: 749
+08-11 10:13 root         INFO     331.31 s, Calculating A..., j: 750
+08-11 10:13 root         INFO     332.18 s, Calculating A..., j: 751
+08-11 10:13 root         INFO     332.79 s, Calculating A..., j: 752
+08-11 10:13 root         INFO     333.58 s, Calculating A..., j: 753
+08-11 10:13 root         INFO     334.23 s, Calculating A..., j: 754
+08-11 10:13 root         INFO     334.83 s, Calculating A..., j: 755
+08-11 10:13 root         INFO     335.47 s, Calculating A..., j: 756
+08-11 10:13 root         INFO     335.98 s, Calculating A..., j: 757
+08-11 10:13 root         INFO     336.46 s, Calculating A..., j: 758
+08-11 10:13 root         INFO     337.04 s, Calculating A..., j: 759
+08-11 10:13 root         INFO     337.55 s, Calculating A..., j: 760
+08-11 10:13 root         INFO     338.00 s, Calculating A..., j: 761
+08-11 10:13 root         INFO     338.63 s, Calculating A..., j: 762
+08-11 10:13 root         INFO     339.15 s, Calculating A..., j: 763
+08-11 10:13 root         INFO     339.75 s, Calculating A..., j: 764
+08-11 10:13 root         INFO     341.99 s, Calculating A..., j: 765
+08-11 10:13 root         INFO     342.50 s, Calculating A..., j: 766
+08-11 10:13 root         INFO     343.18 s, Calculating A..., j: 767
+08-11 10:13 root         INFO     343.84 s, Calculating A..., j: 768
+08-11 10:13 root         INFO     344.70 s, Calculating A..., j: 769
+08-11 10:13 root         INFO     345.83 s, Calculating A..., j: 770
+08-11 10:13 root         INFO     346.37 s, Calculating A..., j: 771
+08-11 10:14 root         INFO     347.01 s, Calculating A..., j: 772
+08-11 10:14 root         INFO     347.64 s, Calculating A..., j: 773
+08-11 10:14 root         INFO     348.12 s, Calculating A..., j: 774
+08-11 10:14 root         INFO     348.77 s, Calculating A..., j: 775
+08-11 10:14 root         INFO     349.26 s, Calculating A..., j: 776
+08-11 10:14 root         INFO     349.89 s, Calculating A..., j: 777
+08-11 10:14 root         INFO     350.35 s, Calculating A..., j: 778
+08-11 10:14 root         INFO     350.83 s, Calculating A..., j: 779
+08-11 10:14 root         INFO     351.47 s, Calculating A..., j: 780
+08-11 10:14 root         INFO     352.03 s, Calculating A..., j: 781
+08-11 10:14 root         INFO     352.51 s, Calculating A..., j: 782
+08-11 10:14 root         INFO     353.05 s, Calculating A..., j: 783
+08-11 10:14 root         INFO     353.60 s, Calculating A..., j: 784
+08-11 10:14 root         INFO     354.11 s, Calculating A..., j: 785
+08-11 10:14 root         INFO     354.59 s, Calculating A..., j: 786
+08-11 10:14 root         INFO     355.12 s, Calculating A..., j: 787
+08-11 10:14 root         INFO     355.66 s, Calculating A..., j: 788
+08-11 10:14 root         INFO     356.27 s, Calculating A..., j: 789
+08-11 10:14 root         INFO     356.79 s, Calculating A..., j: 790
+08-11 10:14 root         INFO     359.45 s, Calculating A..., j: 791
+08-11 10:14 root         INFO     360.29 s, Calculating A..., j: 792
+08-11 10:14 root         INFO     360.91 s, Calculating A..., j: 793
+08-11 10:14 root         INFO     361.63 s, Calculating A..., j: 794
+08-11 10:14 root         INFO     362.53 s, Calculating A..., j: 795
+08-11 10:14 root         INFO     363.23 s, Calculating A..., j: 796
+08-11 10:14 root         INFO     366.84 s, Calculating A..., j: 797
+08-11 10:14 root         INFO     367.34 s, Calculating A..., j: 798
+08-11 10:14 root         INFO     367.89 s, Calculating A..., j: 799
+08-11 10:14 root         INFO     368.42 s, Calculating A..., j: 800
+08-11 10:14 root         INFO     369.17 s, Calculating A..., j: 801
+08-11 10:14 root         INFO     369.62 s, Calculating A..., j: 802
+08-11 10:14 root         INFO     370.12 s, Calculating A..., j: 803
+08-11 10:14 root         INFO     370.59 s, Calculating A..., j: 804
+08-11 10:14 root         INFO     371.22 s, Calculating A..., j: 805
+08-11 10:14 root         INFO     371.86 s, Calculating A..., j: 806
+08-11 10:14 root         INFO     372.51 s, Calculating A..., j: 807
+08-11 10:14 root         INFO     373.21 s, Calculating A..., j: 808
+08-11 10:14 root         INFO     374.92 s, Calculating A..., j: 809
+08-11 10:14 root         INFO     376.29 s, Calculating A..., j: 810
+08-11 10:14 root         INFO     376.91 s, Calculating A..., j: 811
+08-11 10:14 root         INFO     377.55 s, Calculating A..., j: 812
+08-11 10:14 root         INFO     378.58 s, Calculating A..., j: 813
+08-11 10:14 root         INFO     379.95 s, Calculating A..., j: 814
+08-11 10:14 root         INFO     381.33 s, Calculating A..., j: 815
+08-11 10:14 root         INFO     382.05 s, Calculating A..., j: 816
+08-11 10:14 root         INFO     382.69 s, Calculating A..., j: 817
+08-11 10:14 root         INFO     384.67 s, Calculating A..., j: 818
+08-11 10:14 root         INFO     385.28 s, Calculating A..., j: 819
+08-11 10:14 root         INFO     385.78 s, Calculating A..., j: 820
+08-11 10:14 root         INFO     386.30 s, Calculating A..., j: 821
+08-11 10:14 root         INFO     386.87 s, Calculating A..., j: 822
+08-11 10:14 root         INFO     388.54 s, Calculating A..., j: 823
+08-11 10:14 root         INFO     389.26 s, Calculating A..., j: 824
+08-11 10:14 root         INFO     389.85 s, Calculating A..., j: 825
+08-11 10:14 root         INFO     390.56 s, Calculating A..., j: 826
+08-11 10:14 root         INFO     391.26 s, Calculating A..., j: 827
+08-11 10:14 root         INFO     391.81 s, Calculating A..., j: 828
+08-11 10:14 root         INFO     392.45 s, Calculating A..., j: 829
+08-11 10:14 root         INFO     393.04 s, Calculating A..., j: 830
+08-11 10:14 root         INFO     393.68 s, Calculating A..., j: 831
+08-11 10:14 root         INFO     396.30 s, Calculating A..., j: 832
+08-11 10:14 root         INFO     397.13 s, Calculating A..., j: 833
+08-11 11:24 root         INFO     4578.41 s, Calculating A..., j: 834
+08-11 11:24 root         INFO     4581.97 s, Calculating A..., j: 835
+08-11 11:24 root         INFO     4584.95 s, Calculating A..., j: 836
+08-11 11:24 root         INFO     4587.05 s, Calculating A..., j: 837
+08-11 11:24 root         INFO     4589.10 s, Calculating A..., j: 838
+08-11 11:24 root         INFO     4589.89 s, Calculating A..., j: 839
+08-11 11:24 root         INFO     4590.96 s, Calculating A..., j: 840
+08-11 11:24 root         INFO     4591.94 s, Calculating A..., j: 841
+08-11 11:24 root         INFO     4594.62 s, Calculating A..., j: 842
+08-11 11:24 root         INFO     4595.35 s, Calculating A..., j: 843
+08-11 11:24 root         INFO     4596.15 s, Calculating A..., j: 844
+08-11 11:24 root         INFO     4597.66 s, Calculating A..., j: 845
+08-11 11:24 root         INFO     4601.94 s, Calculating A..., j: 846
+08-11 11:24 root         INFO     4604.60 s, Calculating A..., j: 847
+08-11 11:24 root         INFO     4605.55 s, Calculating A..., j: 848
+08-11 11:25 root         INFO     4606.95 s, Calculating A..., j: 849
+08-11 11:25 root         INFO     4609.01 s, Calculating A..., j: 850
+08-11 11:25 root         INFO     4612.26 s, Calculating A..., j: 851
+08-11 11:25 root         INFO     4613.98 s, Calculating A..., j: 852
+08-11 11:25 root         INFO     4614.95 s, Calculating A..., j: 853
+08-11 11:25 root         INFO     4615.71 s, Calculating A..., j: 854
+08-11 11:25 root         INFO     4619.33 s, Calculating A..., j: 855
+08-11 11:25 root         INFO     4620.18 s, Calculating A..., j: 856
+08-11 11:25 root         INFO     4620.76 s, Calculating A..., j: 857
+08-11 11:25 root         INFO     4621.56 s, Calculating A..., j: 858
+08-11 11:25 root         INFO     4622.06 s, Calculating A..., j: 859
+08-11 11:25 root         INFO     4622.77 s, Calculating A..., j: 860
+08-11 11:25 root         INFO     4623.38 s, Calculating A..., j: 861
+08-11 11:25 root         INFO     4624.23 s, Calculating A..., j: 862
+08-11 11:25 root         INFO     4624.89 s, Calculating A..., j: 863
+08-11 11:25 root         INFO     4625.40 s, Calculating A..., j: 864
+08-11 11:25 root         INFO     4625.97 s, Calculating A..., j: 865
+08-11 11:25 root         INFO     4626.48 s, Calculating A..., j: 866
+08-11 11:25 root         INFO     4627.07 s, Calculating A..., j: 867
+08-11 11:25 root         INFO     4627.57 s, Calculating A..., j: 868
+08-11 11:25 root         INFO     4628.30 s, Calculating A..., j: 869
+08-11 11:25 root         INFO     4628.96 s, Calculating A..., j: 870
+08-11 11:25 root         INFO     4629.48 s, Calculating A..., j: 871
+08-11 11:25 root         INFO     4629.99 s, Calculating A..., j: 872
+08-11 11:25 root         INFO     4631.64 s, Calculating A..., j: 873
+08-11 11:25 root         INFO     4632.42 s, Calculating A..., j: 874
+08-11 11:25 root         INFO     4633.04 s, Calculating A..., j: 875
+08-11 11:25 root         INFO     4633.63 s, Calculating A..., j: 876
+08-11 11:25 root         INFO     4634.50 s, Calculating A..., j: 877
+08-11 11:25 root         INFO     4635.14 s, Calculating A..., j: 878
+08-11 11:25 root         INFO     4635.77 s, Calculating A..., j: 879
+08-11 11:25 root         INFO     4636.42 s, Calculating A..., j: 880
+08-11 11:25 root         INFO     4636.94 s, Calculating A..., j: 881
+08-11 11:25 root         INFO     4637.84 s, Calculating A..., j: 882
+08-11 11:25 root         INFO     4640.14 s, Calculating A..., j: 883
+08-11 11:25 root         INFO     4640.87 s, Calculating A..., j: 884
+08-11 11:25 root         INFO     4641.63 s, Calculating A..., j: 885
+08-11 11:25 root         INFO     4642.65 s, Calculating A..., j: 886
+08-11 11:25 root         INFO     4643.89 s, Calculating A..., j: 887
+08-11 11:25 root         INFO     4645.10 s, Calculating A..., j: 888
+08-11 11:25 root         INFO     4646.70 s, Calculating A..., j: 889
+08-11 11:25 root         INFO     4647.47 s, Calculating A..., j: 890
+08-11 11:25 root         INFO     4648.76 s, Calculating A..., j: 891
+08-11 11:25 root         INFO     4649.84 s, Calculating A..., j: 892
+08-11 11:25 root         INFO     4653.72 s, Calculating A..., j: 893
+08-11 11:25 root         INFO     4655.21 s, Calculating A..., j: 894
+08-11 11:25 root         INFO     4656.40 s, Calculating A..., j: 895
+08-11 11:25 root         INFO     4657.50 s, Calculating A..., j: 896
+08-11 11:25 root         INFO     4658.32 s, Calculating A..., j: 897
+08-11 11:25 root         INFO     4659.17 s, Calculating A..., j: 898
+08-11 11:25 root         INFO     4660.44 s, Calculating A..., j: 899
+08-11 11:25 root         INFO     4661.33 s, Calculating A..., j: 900
+08-11 11:25 root         INFO     4662.01 s, Calculating A..., j: 901
+08-11 11:25 root         INFO     4662.59 s, Calculating A..., j: 902
+08-11 11:25 root         INFO     4663.23 s, Calculating A..., j: 903
+08-11 11:25 root         INFO     4664.40 s, Calculating A..., j: 904
+08-11 11:25 root         INFO     4665.08 s, Calculating A..., j: 905
+08-11 11:25 root         INFO     4665.85 s, Calculating A..., j: 906
+08-11 11:25 root         INFO     4666.63 s, Calculating A..., j: 907
+08-11 11:26 root         INFO     4669.96 s, Calculating A..., j: 908
+08-11 11:26 root         INFO     4670.65 s, Calculating A..., j: 909
+08-11 11:26 root         INFO     4671.75 s, Calculating A..., j: 910
+08-11 11:26 root         INFO     4673.04 s, Calculating A..., j: 911
+08-11 11:26 root         INFO     4674.49 s, Calculating A..., j: 912
+08-11 11:26 root         INFO     4675.14 s, Calculating A..., j: 913
+08-11 11:26 root         INFO     4675.93 s, Calculating A..., j: 914
+08-11 11:26 root         INFO     4676.48 s, Calculating A..., j: 915
+08-11 11:26 root         INFO     4677.04 s, Calculating A..., j: 916
+08-11 11:26 root         INFO     4677.65 s, Calculating A..., j: 917
+08-11 11:26 root         INFO     4678.17 s, Calculating A..., j: 918
+08-11 11:26 root         INFO     4678.68 s, Calculating A..., j: 919
+08-11 11:26 root         INFO     4679.41 s, Calculating A..., j: 920
+08-11 11:26 root         INFO     4680.01 s, Calculating A..., j: 921
+08-11 11:26 root         INFO     4680.56 s, Calculating A..., j: 922
+08-11 11:26 root         INFO     4681.27 s, Calculating A..., j: 923
+08-11 11:26 root         INFO     4681.88 s, Calculating A..., j: 924
+08-11 11:26 root         INFO     4682.64 s, Calculating A..., j: 925
+08-11 11:26 root         INFO     4683.29 s, Calculating A..., j: 926
+08-11 11:26 root         INFO     4685.79 s, Calculating A..., j: 927
+08-11 11:26 root         INFO     4687.90 s, Calculating A..., j: 928
+08-11 11:26 root         INFO     4688.58 s, Calculation of A based on clusters is completed
+08-11 11:26 root         INFO     4688.64 s, Timestep: 0
+08-11 11:26 root         INFO     4688.69 s, Timestep: 1
+08-11 11:26 root         INFO     4688.72 s, Timestep: 2
+08-11 11:26 root         INFO     4688.75 s, Timestep: 3
+08-11 11:26 root         INFO     4688.78 s, Timestep: 4
+08-11 11:26 root         INFO     4688.82 s, Timestep: 5
+08-11 11:26 root         INFO     4688.85 s, Timestep: 6
+08-11 11:26 root         INFO     4688.88 s, Timestep: 7
+08-11 11:26 root         INFO     4688.92 s, Timestep: 8
+08-11 11:26 root         INFO     4688.95 s, Timestep: 9
+08-11 11:26 root         INFO     4688.98 s, Timestep: 10
+08-11 11:26 root         INFO     4689.02 s, Timestep: 11
+08-11 11:26 root         INFO     4689.05 s, Timestep: 12
+08-11 11:26 root         INFO     4689.08 s, Timestep: 13
+08-11 11:26 root         INFO     4689.11 s, Timestep: 14
+08-11 11:26 root         INFO     4689.14 s, Timestep: 15
+08-11 11:26 root         INFO     4689.17 s, Timestep: 16
+08-11 11:26 root         INFO     4689.20 s, Timestep: 17
+08-11 11:26 root         INFO     4689.23 s, Timestep: 18
+08-11 11:26 root         INFO     4689.27 s, Timestep: 19
+08-11 11:26 root         INFO     4689.31 s, Timestep: 20
+08-11 11:26 root         INFO     4689.34 s, Timestep: 21
+08-11 11:26 root         INFO     4689.37 s, Timestep: 22
+08-11 11:26 root         INFO     4689.40 s, Timestep: 23
+08-11 11:26 root         INFO     4689.43 s, Timestep: 24
+08-11 11:26 root         INFO     4689.46 s, Timestep: 25
+08-11 11:26 root         INFO     4689.49 s, Timestep: 26
+08-11 11:26 root         INFO     4689.52 s, Timestep: 27
+08-11 11:26 root         INFO     4689.55 s, Timestep: 28
+08-11 11:26 root         INFO     4689.58 s, Timestep: 29
+08-11 11:26 root         INFO     4689.61 s, Timestep: 30
+08-11 11:26 root         INFO     4689.64 s, Timestep: 31
+08-11 11:26 root         INFO     4689.66 s, Timestep: 32
+08-11 11:26 root         INFO     4689.69 s, Timestep: 33
+08-11 11:26 root         INFO     4689.72 s, Timestep: 34
+08-11 11:26 root         INFO     4689.75 s, Timestep: 35
+08-11 11:26 root         INFO     4689.78 s, Timestep: 36
+08-11 11:26 root         INFO     4689.81 s, Timestep: 37
+08-11 11:26 root         INFO     4689.83 s, Timestep: 38
+08-11 11:26 root         INFO     4689.86 s, Timestep: 39
+08-11 11:26 root         INFO     4689.89 s, Timestep: 40
+08-11 11:26 root         INFO     4689.92 s, Timestep: 41
+08-11 11:26 root         INFO     4689.95 s, Timestep: 42
+08-11 11:26 root         INFO     4689.98 s, Timestep: 43
+08-11 11:26 root         INFO     4690.00 s, Timestep: 44
+08-11 11:26 root         INFO     4690.03 s, Timestep: 45
+08-11 11:26 root         INFO     4690.06 s, Timestep: 46
+08-11 11:26 root         INFO     4690.09 s, Timestep: 47
+08-11 11:26 root         INFO     4690.12 s, Timestep: 48
+08-11 11:26 root         INFO     4690.15 s, Timestep: 49
+08-11 11:26 root         INFO     4690.18 s, Timestep: 50
+08-11 11:26 root         INFO     4690.20 s, Timestep: 51
+08-11 11:26 root         INFO     4690.23 s, Timestep: 52
+08-11 11:26 root         INFO     4690.26 s, Timestep: 53
+08-11 11:26 root         INFO     4690.28 s, Timestep: 54
+08-11 11:26 root         INFO     4690.32 s, Timestep: 55
+08-11 11:26 root         INFO     4690.35 s, Timestep: 56
+08-11 11:26 root         INFO     4690.38 s, Timestep: 57
+08-11 11:26 root         INFO     4690.40 s, Timestep: 58
+08-11 11:26 root         INFO     4690.43 s, Timestep: 59
+08-11 11:26 root         INFO     4690.46 s, Timestep: 60
+08-11 11:26 root         INFO     4690.49 s, Timestep: 61
+08-11 11:26 root         INFO     4690.51 s, Timestep: 62
+08-11 11:26 root         INFO     4690.54 s, Timestep: 63
+08-11 11:26 root         INFO     4690.57 s, Timestep: 64
+08-11 11:26 root         INFO     4690.59 s, Timestep: 65
+08-11 11:26 root         INFO     4690.62 s, Timestep: 66
+08-11 11:26 root         INFO     4690.65 s, Timestep: 67
+08-11 11:26 root         INFO     4690.67 s, Timestep: 68
+08-11 11:26 root         INFO     4690.70 s, Timestep: 69
+08-11 11:26 root         INFO     4690.72 s, Timestep: 70
+08-11 11:26 root         INFO     4690.75 s, Timestep: 71
+08-11 11:26 root         INFO     4690.78 s, Timestep: 72
+08-11 11:26 root         INFO     4690.81 s, Timestep: 73
+08-11 11:26 root         INFO     4690.83 s, Timestep: 74
+08-11 11:26 root         INFO     4690.86 s, Timestep: 75
+08-11 11:26 root         INFO     4690.88 s, Timestep: 76
+08-11 11:26 root         INFO     4690.91 s, Timestep: 77
+08-11 11:26 root         INFO     4690.94 s, Timestep: 78
+08-11 11:26 root         INFO     4690.96 s, Timestep: 79
+08-11 11:26 root         INFO     4690.99 s, Timestep: 80
+08-11 11:26 root         INFO     4691.02 s, Timestep: 81
+08-11 11:26 root         INFO     4691.04 s, Timestep: 82
+08-11 11:26 root         INFO     4691.07 s, Timestep: 83
+08-11 11:26 root         INFO     4691.09 s, Timestep: 84
+08-11 11:26 root         INFO     4691.12 s, Timestep: 85
+08-11 11:26 root         INFO     4691.15 s, Timestep: 86
+08-11 11:26 root         INFO     4691.18 s, Timestep: 87
+08-11 11:26 root         INFO     4691.20 s, Timestep: 88
+08-11 11:26 root         INFO     4691.23 s, Timestep: 89
+08-11 11:26 root         INFO     4691.25 s, Timestep: 90
+08-11 11:26 root         INFO     4691.27 s, Timestep: 91
+08-11 11:26 root         INFO     4691.30 s, Timestep: 92
+08-11 11:26 root         INFO     4691.33 s, Timestep: 93
+08-11 11:26 root         INFO     4691.35 s, Timestep: 94
+08-11 11:26 root         INFO     4691.38 s, Timestep: 95
+08-11 11:26 root         INFO     4691.41 s, Timestep: 96
+08-11 11:26 root         INFO     4691.43 s, Timestep: 97
+08-11 11:26 root         INFO     4691.46 s, Timestep: 98
+08-11 11:26 root         INFO     4691.48 s, Timestep: 99
+08-11 11:26 root         INFO     4691.51 s, Timestep: 100
+08-11 11:26 root         INFO     4691.53 s, Timestep: 101
+08-11 11:26 root         INFO     4691.56 s, Timestep: 102
+08-11 11:26 root         INFO     4691.58 s, Timestep: 103
+08-11 11:26 root         INFO     4691.61 s, Timestep: 104
+08-11 11:26 root         INFO     4691.63 s, Timestep: 105
+08-11 11:26 root         INFO     4691.65 s, Timestep: 106
+08-11 11:26 root         INFO     4691.68 s, Timestep: 107
+08-11 11:26 root         INFO     4691.70 s, Timestep: 108
+08-11 11:26 root         INFO     4691.73 s, Timestep: 109
+08-11 11:26 root         INFO     4691.75 s, Timestep: 110
+08-11 11:26 root         INFO     4691.78 s, Timestep: 111
+08-11 11:26 root         INFO     4691.81 s, Timestep: 112
+08-11 11:26 root         INFO     4691.83 s, Timestep: 113
+08-11 11:26 root         INFO     4691.85 s, Timestep: 114
+08-11 11:26 root         INFO     4691.88 s, Timestep: 115
+08-11 11:26 root         INFO     4691.90 s, Timestep: 116
+08-11 11:26 root         INFO     4691.93 s, Timestep: 117
+08-11 11:26 root         INFO     4691.95 s, Timestep: 118
+08-11 11:26 root         INFO     4691.98 s, Timestep: 119
+08-11 11:26 root         INFO     4692.00 s, Timestep: 120
+08-11 11:26 root         INFO     4692.04 s, Timestep: 121
+08-11 11:26 root         INFO     4692.08 s, Timestep: 122
+08-11 11:26 root         INFO     4692.10 s, Timestep: 123
+08-11 11:26 root         INFO     4692.13 s, Timestep: 124
+08-11 11:26 root         INFO     4692.15 s, Timestep: 125
+08-11 11:26 root         INFO     4692.17 s, Timestep: 126
+08-11 11:26 root         INFO     4692.20 s, Timestep: 127
+08-11 11:26 root         INFO     4692.22 s, Timestep: 128
+08-11 11:26 root         INFO     4692.24 s, Timestep: 129
+08-11 11:26 root         INFO     4692.27 s, Timestep: 130
+08-11 11:26 root         INFO     4692.29 s, Timestep: 131
+08-11 11:26 root         INFO     4692.31 s, Timestep: 132
+08-11 11:26 root         INFO     4692.34 s, Timestep: 133
+08-11 11:26 root         INFO     4692.36 s, Timestep: 134
+08-11 11:26 root         INFO     4692.38 s, Timestep: 135
+08-11 11:26 root         INFO     4692.43 s, Timestep: 136
+08-11 11:26 root         INFO     4692.45 s, Timestep: 137
+08-11 11:26 root         INFO     4692.47 s, Timestep: 138
+08-11 11:26 root         INFO     4692.50 s, Timestep: 139
+08-11 11:26 root         INFO     4692.52 s, Timestep: 140
+08-11 11:26 root         INFO     4692.55 s, Timestep: 141
+08-11 11:26 root         INFO     4692.57 s, Timestep: 142
+08-11 11:26 root         INFO     4692.60 s, Timestep: 143
+08-11 11:26 root         INFO     4692.62 s, Timestep: 144
+08-11 11:26 root         INFO     4692.65 s, Timestep: 145
+08-11 11:26 root         INFO     4692.67 s, Timestep: 146
+08-11 11:26 root         INFO     4692.69 s, Timestep: 147
+08-11 11:26 root         INFO     4692.72 s, Timestep: 148
+08-11 11:26 root         INFO     4692.74 s, Timestep: 149
+08-11 11:26 root         INFO     4692.76 s, Timestep: 150
+08-11 11:26 root         INFO     4692.79 s, Timestep: 151
+08-11 11:26 root         INFO     4692.81 s, Timestep: 152
+08-11 11:26 root         INFO     4692.83 s, Timestep: 153
+08-11 11:26 root         INFO     4692.85 s, Timestep: 154
+08-11 11:26 root         INFO     4692.87 s, Timestep: 155
+08-11 11:26 root         INFO     4692.90 s, Timestep: 156
+08-11 11:26 root         INFO     4692.92 s, Timestep: 157
+08-11 11:26 root         INFO     4692.94 s, Timestep: 158
+08-11 11:26 root         INFO     4692.96 s, Timestep: 159
+08-11 11:26 root         INFO     4692.98 s, Timestep: 160
+08-11 11:26 root         INFO     4693.02 s, Timestep: 161
+08-11 11:26 root         INFO     4693.04 s, Timestep: 162
+08-11 11:26 root         INFO     4693.06 s, Timestep: 163
+08-11 11:26 root         INFO     4693.09 s, Timestep: 164
+08-11 11:26 root         INFO     4693.12 s, Timestep: 165
+08-11 11:26 root         INFO     4693.14 s, Timestep: 166
+08-11 11:26 root         INFO     4693.16 s, Timestep: 167
+08-11 11:26 root         INFO     4693.18 s, Timestep: 168
+08-11 11:26 root         INFO     4693.20 s, Timestep: 169
+08-11 11:26 root         INFO     4693.22 s, Timestep: 170
+08-11 11:26 root         INFO     4693.24 s, Timestep: 171
+08-11 11:26 root         INFO     4693.26 s, Timestep: 172
+08-11 11:26 root         INFO     4693.29 s, Timestep: 173
+08-11 11:26 root         INFO     4693.31 s, Timestep: 174
+08-11 11:26 root         INFO     4693.34 s, Timestep: 175
+08-11 11:26 root         INFO     4693.36 s, Timestep: 176
+08-11 11:26 root         INFO     4693.38 s, Timestep: 177
+08-11 11:26 root         INFO     4693.41 s, Timestep: 178
+08-11 11:26 root         INFO     4693.43 s, Timestep: 179
+08-11 11:26 root         INFO     4693.47 s, Timestep: 180
+08-11 11:26 root         INFO     4693.49 s, Timestep: 181
+08-11 11:26 root         INFO     4693.51 s, Timestep: 182
+08-11 11:26 root         INFO     4693.53 s, Timestep: 183
+08-11 11:26 root         INFO     4693.56 s, Timestep: 184
+08-11 11:26 root         INFO     4693.58 s, Timestep: 185
+08-11 11:26 root         INFO     4693.60 s, Timestep: 186
+08-11 11:26 root         INFO     4693.62 s, Timestep: 187
+08-11 11:26 root         INFO     4693.65 s, Timestep: 188
+08-11 11:26 root         INFO     4693.67 s, Timestep: 189
+08-11 11:26 root         INFO     4693.69 s, Timestep: 190
+08-11 11:26 root         INFO     4693.71 s, Timestep: 191
+08-11 11:26 root         INFO     4693.73 s, Timestep: 192
+08-11 11:26 root         INFO     4693.76 s, Timestep: 193
+08-11 11:26 root         INFO     4693.78 s, Timestep: 194
+08-11 11:26 root         INFO     4693.80 s, Timestep: 195
+08-11 11:26 root         INFO     4693.83 s, Timestep: 196
+08-11 11:26 root         INFO     4693.87 s, Timestep: 197
+08-11 11:26 root         INFO     4693.91 s, Timestep: 198
+08-11 11:26 root         INFO     4693.94 s, Timestep: 199
+08-11 11:26 root         INFO     4693.99 s, Timestep: 200
+08-11 11:26 root         INFO     4694.03 s, Timestep: 201
+08-11 11:26 root         INFO     4694.05 s, Timestep: 202
+08-11 11:26 root         INFO     4694.09 s, Timestep: 203
+08-11 11:26 root         INFO     4694.13 s, Timestep: 204
+08-11 11:26 root         INFO     4694.15 s, Timestep: 205
+08-11 11:26 root         INFO     4694.17 s, Timestep: 206
+08-11 11:26 root         INFO     4694.19 s, Timestep: 207
+08-11 11:26 root         INFO     4694.21 s, Timestep: 208
+08-11 11:26 root         INFO     4694.24 s, Timestep: 209
+08-11 11:26 root         INFO     4694.26 s, Timestep: 210
+08-11 11:26 root         INFO     4694.28 s, Timestep: 211
+08-11 11:26 root         INFO     4694.32 s, Timestep: 212
+08-11 11:26 root         INFO     4694.36 s, Timestep: 213
+08-11 11:26 root         INFO     4694.38 s, Timestep: 214
+08-11 11:26 root         INFO     4694.40 s, Timestep: 215
+08-11 11:26 root         INFO     4694.42 s, Timestep: 216
+08-11 11:26 root         INFO     4694.44 s, Timestep: 217
+08-11 11:26 root         INFO     4694.46 s, Timestep: 218
+08-11 11:26 root         INFO     4694.49 s, Timestep: 219
+08-11 11:26 root         INFO     4694.52 s, Timestep: 220
+08-11 11:26 root         INFO     4694.55 s, Timestep: 221
+08-11 11:26 root         INFO     4694.57 s, Timestep: 222
+08-11 11:26 root         INFO     4694.59 s, Timestep: 223
+08-11 11:26 root         INFO     4694.62 s, Timestep: 224
+08-11 11:26 root         INFO     4694.64 s, Timestep: 225
+08-11 11:26 root         INFO     4694.66 s, Timestep: 226
+08-11 11:26 root         INFO     4694.68 s, Timestep: 227
+08-11 11:26 root         INFO     4694.70 s, Timestep: 228
+08-11 11:26 root         INFO     4694.72 s, Timestep: 229
+08-11 11:26 root         INFO     4694.74 s, Timestep: 230
+08-11 11:26 root         INFO     4694.76 s, Timestep: 231
+08-11 11:26 root         INFO     4694.77 s, Timestep: 232
+08-11 11:26 root         INFO     4694.79 s, Timestep: 233
+08-11 11:26 root         INFO     4694.82 s, Timestep: 234
+08-11 11:26 root         INFO     4694.84 s, Timestep: 235
+08-11 11:26 root         INFO     4694.87 s, Timestep: 236
+08-11 11:26 root         INFO     4694.91 s, Timestep: 237
+08-11 11:26 root         INFO     4694.93 s, Timestep: 238
+08-11 11:26 root         INFO     4694.96 s, Timestep: 239
+08-11 11:26 root         INFO     4694.98 s, Timestep: 240
+08-11 11:26 root         INFO     4695.01 s, Timestep: 241
+08-11 11:26 root         INFO     4695.03 s, Timestep: 242
+08-11 11:26 root         INFO     4695.06 s, Timestep: 243
+08-11 11:26 root         INFO     4695.09 s, Timestep: 244
+08-11 11:26 root         INFO     4695.11 s, Timestep: 245
+08-11 11:26 root         INFO     4695.14 s, Timestep: 246
+08-11 11:26 root         INFO     4695.16 s, Timestep: 247
+08-11 11:26 root         INFO     4695.18 s, Timestep: 248
+08-11 11:26 root         INFO     4695.20 s, Timestep: 249
+08-11 11:26 root         INFO     4695.22 s, Timestep: 250
+08-11 11:26 root         INFO     4695.24 s, Timestep: 251
+08-11 11:26 root         INFO     4695.26 s, Timestep: 252
+08-11 11:26 root         INFO     4695.28 s, Timestep: 253
+08-11 11:26 root         INFO     4695.30 s, Timestep: 254
+08-11 11:26 root         INFO     4695.32 s, Timestep: 255
+08-11 11:26 root         INFO     4695.34 s, Timestep: 256
+08-11 11:26 root         INFO     4695.37 s, Timestep: 257
+08-11 11:26 root         INFO     4695.39 s, Timestep: 258
+08-11 11:26 root         INFO     4695.41 s, Timestep: 259
+08-11 11:26 root         INFO     4695.43 s, Timestep: 260
+08-11 11:26 root         INFO     4695.45 s, Timestep: 261
+08-11 11:26 root         INFO     4695.46 s, Timestep: 262
+08-11 11:26 root         INFO     4695.48 s, Timestep: 263
+08-11 11:26 root         INFO     4695.50 s, Timestep: 264
+08-11 11:26 root         INFO     4695.52 s, Timestep: 265
+08-11 11:26 root         INFO     4695.54 s, Timestep: 266
+08-11 11:26 root         INFO     4695.57 s, Timestep: 267
+08-11 11:26 root         INFO     4695.58 s, Timestep: 268
+08-11 11:26 root         INFO     4695.60 s, Timestep: 269
+08-11 11:26 root         INFO     4695.62 s, Timestep: 270
+08-11 11:26 root         INFO     4695.64 s, Timestep: 271
+08-11 11:26 root         INFO     4695.65 s, Timestep: 272
+08-11 11:26 root         INFO     4695.67 s, Timestep: 273
+08-11 11:26 root         INFO     4695.69 s, Timestep: 274
+08-11 11:26 root         INFO     4695.71 s, Timestep: 275
+08-11 11:26 root         INFO     4695.72 s, Timestep: 276
+08-11 11:26 root         INFO     4695.74 s, Timestep: 277
+08-11 11:26 root         INFO     4695.76 s, Timestep: 278
+08-11 11:26 root         INFO     4695.78 s, Timestep: 279
+08-11 11:26 root         INFO     4695.79 s, Timestep: 280
+08-11 11:26 root         INFO     4695.81 s, Timestep: 281
+08-11 11:26 root         INFO     4695.82 s, Timestep: 282
+08-11 11:26 root         INFO     4695.84 s, Timestep: 283
+08-11 11:26 root         INFO     4695.86 s, Timestep: 284
+08-11 11:26 root         INFO     4695.88 s, Timestep: 285
+08-11 11:26 root         INFO     4695.90 s, Timestep: 286
+08-11 11:26 root         INFO     4695.91 s, Timestep: 287
+08-11 11:26 root         INFO     4695.93 s, Timestep: 288
+08-11 11:26 root         INFO     4695.95 s, Timestep: 289
+08-11 11:26 root         INFO     4695.96 s, Timestep: 290
+08-11 11:26 root         INFO     4695.98 s, Timestep: 291
+08-11 11:26 root         INFO     4695.99 s, Timestep: 292
+08-11 11:26 root         INFO     4696.01 s, Timestep: 293
+08-11 11:26 root         INFO     4696.03 s, Timestep: 294
+08-11 11:26 root         INFO     4696.04 s, Timestep: 295
+08-11 11:26 root         INFO     4696.06 s, Timestep: 296
+08-11 11:26 root         INFO     4696.07 s, Timestep: 297
+08-11 11:26 root         INFO     4696.10 s, Timestep: 298
+08-11 11:26 root         INFO     4696.12 s, Timestep: 299
+08-11 11:26 root         INFO     4696.14 s, Timestep: 300
+08-11 11:26 root         INFO     4696.16 s, Timestep: 301
+08-11 11:26 root         INFO     4696.19 s, Timestep: 302
+08-11 11:26 root         INFO     4696.25 s, Timestep: 303
+08-11 11:26 root         INFO     4696.28 s, Timestep: 304
+08-11 11:26 root         INFO     4696.32 s, Timestep: 305
+08-11 11:26 root         INFO     4696.34 s, Timestep: 306
+08-11 11:26 root         INFO     4696.36 s, Timestep: 307
+08-11 11:26 root         INFO     4696.38 s, Timestep: 308
+08-11 11:26 root         INFO     4696.40 s, Timestep: 309
+08-11 11:26 root         INFO     4696.42 s, Timestep: 310
+08-11 11:26 root         INFO     4696.43 s, Timestep: 311
+08-11 11:26 root         INFO     4696.45 s, Timestep: 312
+08-11 11:26 root         INFO     4696.46 s, Timestep: 313
+08-11 11:26 root         INFO     4696.48 s, Timestep: 314
+08-11 11:26 root         INFO     4696.49 s, Timestep: 315
+08-11 11:26 root         INFO     4696.51 s, Timestep: 316
+08-11 11:26 root         INFO     4696.53 s, Timestep: 317
+08-11 11:26 root         INFO     4696.54 s, Timestep: 318
+08-11 11:26 root         INFO     4696.56 s, Timestep: 319
+08-11 11:26 root         INFO     4696.58 s, Timestep: 320
+08-11 11:26 root         INFO     4696.60 s, Timestep: 321
+08-11 11:26 root         INFO     4696.62 s, Timestep: 322
+08-11 11:26 root         INFO     4696.63 s, Timestep: 323
+08-11 11:26 root         INFO     4696.65 s, Timestep: 324
+08-11 11:26 root         INFO     4696.67 s, Timestep: 325
+08-11 11:26 root         INFO     4696.69 s, Timestep: 326
+08-11 11:26 root         INFO     4696.71 s, Timestep: 327
+08-11 11:26 root         INFO     4696.73 s, Timestep: 328
+08-11 11:26 root         INFO     4696.78 s, Timestep: 329
+08-11 11:26 root         INFO     4696.80 s, Timestep: 330
+08-11 11:26 root         INFO     4696.82 s, Timestep: 331
+08-11 11:26 root         INFO     4696.83 s, Timestep: 332
+08-11 11:26 root         INFO     4696.85 s, Timestep: 333
+08-11 11:26 root         INFO     4696.88 s, Timestep: 334
+08-11 11:26 root         INFO     4696.91 s, Timestep: 335
+08-11 11:26 root         INFO     4696.93 s, Timestep: 336
+08-11 11:26 root         INFO     4696.96 s, Timestep: 337
+08-11 11:26 root         INFO     4697.01 s, Timestep: 338
+08-11 11:26 root         INFO     4697.04 s, Timestep: 339
+08-11 11:26 root         INFO     4697.06 s, Timestep: 340
+08-11 11:26 root         INFO     4697.08 s, Timestep: 341
+08-11 11:26 root         INFO     4697.10 s, Timestep: 342
+08-11 11:26 root         INFO     4697.11 s, Timestep: 343
+08-11 11:26 root         INFO     4697.13 s, Timestep: 344
+08-11 11:26 root         INFO     4697.14 s, Timestep: 345
+08-11 11:26 root         INFO     4697.16 s, Timestep: 346
+08-11 11:26 root         INFO     4697.17 s, Timestep: 347
+08-11 11:26 root         INFO     4697.20 s, Timestep: 348
+08-11 11:26 root         INFO     4697.22 s, Timestep: 349
+08-11 11:26 root         INFO     4697.25 s, Timestep: 350
+08-11 11:26 root         INFO     4697.28 s, Timestep: 351
+08-11 11:26 root         INFO     4697.29 s, Timestep: 352
+08-11 11:26 root         INFO     4697.31 s, Timestep: 353
+08-11 11:26 root         INFO     4697.32 s, Timestep: 354
+08-11 11:26 root         INFO     4697.34 s, Timestep: 355
+08-11 11:26 root         INFO     4697.35 s, Timestep: 356
+08-11 11:26 root         INFO     4697.37 s, Timestep: 357
+08-11 11:26 root         INFO     4697.38 s, Timestep: 358
+08-11 11:26 root         INFO     4697.39 s, Timestep: 359
+08-11 11:26 root         INFO     4697.41 s, Timestep: 360
+08-11 11:26 root         INFO     4697.42 s, Timestep: 361
+08-11 11:26 root         INFO     4697.43 s, Timestep: 362
+08-11 11:26 root         INFO     4697.45 s, Timestep: 363
+08-11 11:26 root         INFO     4697.46 s, Timestep: 364
+08-11 11:26 root         INFO     4697.48 s, Timestep: 365
+08-11 11:26 root         INFO     4697.49 s, Timestep: 366
+08-11 11:26 root         INFO     4697.51 s, Timestep: 367
+08-11 11:26 root         INFO     4697.52 s, Timestep: 368
+08-11 11:26 root         INFO     4697.53 s, Timestep: 369
+08-11 11:26 root         INFO     4697.55 s, Timestep: 370
+08-11 11:26 root         INFO     4697.56 s, Timestep: 371
+08-11 11:26 root         INFO     4697.57 s, Timestep: 372
+08-11 11:26 root         INFO     4697.59 s, Timestep: 373
+08-11 11:26 root         INFO     4697.60 s, Timestep: 374
+08-11 11:26 root         INFO     4697.62 s, Timestep: 375
+08-11 11:26 root         INFO     4697.64 s, Timestep: 376
+08-11 11:26 root         INFO     4697.65 s, Timestep: 377
+08-11 11:26 root         INFO     4697.66 s, Timestep: 378
+08-11 11:26 root         INFO     4697.67 s, Timestep: 379
+08-11 11:26 root         INFO     4697.69 s, Timestep: 380
+08-11 11:26 root         INFO     4697.70 s, Timestep: 381
+08-11 11:26 root         INFO     4697.71 s, Timestep: 382
+08-11 11:26 root         INFO     4697.73 s, Timestep: 383
+08-11 11:26 root         INFO     4697.74 s, Timestep: 384
+08-11 11:26 root         INFO     4697.75 s, Timestep: 385
+08-11 11:26 root         INFO     4697.76 s, Timestep: 386
+08-11 11:26 root         INFO     4697.77 s, Timestep: 387
+08-11 11:26 root         INFO     4697.78 s, Timestep: 388
+08-11 11:26 root         INFO     4697.80 s, Timestep: 389
+08-11 11:26 root         INFO     4697.83 s, Timestep: 390
+08-11 11:26 root         INFO     4697.86 s, Timestep: 391
+08-11 11:26 root         INFO     4697.90 s, Timestep: 392
+08-11 11:26 root         INFO     4697.92 s, Timestep: 393
+08-11 11:26 root         INFO     4697.93 s, Timestep: 394
+08-11 11:26 root         INFO     4697.94 s, Timestep: 395
+08-11 11:26 root         INFO     4697.95 s, Timestep: 396
+08-11 11:26 root         INFO     4697.96 s, Timestep: 397
+08-11 11:26 root         INFO     4697.98 s, Timestep: 398
+08-11 11:26 root         INFO     4697.99 s, Timestep: 399
+08-11 11:26 root         INFO     4698.01 s, Timestep: 400
+08-11 11:26 root         INFO     4698.02 s, Timestep: 401
+08-11 11:26 root         INFO     4698.04 s, Timestep: 402
+08-11 11:26 root         INFO     4698.05 s, Timestep: 403
+08-11 11:26 root         INFO     4698.06 s, Timestep: 404
+08-11 11:26 root         INFO     4698.07 s, Timestep: 405
+08-11 11:26 root         INFO     4698.09 s, Timestep: 406
+08-11 11:26 root         INFO     4698.11 s, Timestep: 407
+08-11 11:26 root         INFO     4698.12 s, Timestep: 408
+08-11 11:26 root         INFO     4698.13 s, Timestep: 409
+08-11 11:26 root         INFO     4698.14 s, Timestep: 410
+08-11 11:26 root         INFO     4698.15 s, Timestep: 411
+08-11 11:26 root         INFO     4698.16 s, Timestep: 412
+08-11 11:26 root         INFO     4698.17 s, Timestep: 413
+08-11 11:26 root         INFO     4698.19 s, Timestep: 414
+08-11 11:26 root         INFO     4698.20 s, Timestep: 415
+08-11 11:26 root         INFO     4698.21 s, Timestep: 416
+08-11 11:26 root         INFO     4698.22 s, Timestep: 417
+08-11 11:26 root         INFO     4698.24 s, Timestep: 418
+08-11 11:26 root         INFO     4698.25 s, Timestep: 419
+08-11 11:26 root         INFO     4698.26 s, Timestep: 420
+08-11 11:26 root         INFO     4698.34 s, Timestep: 421
+08-11 11:26 root         INFO     4698.36 s, Timestep: 422
+08-11 11:26 root         INFO     4698.38 s, Timestep: 423
+08-11 11:26 root         INFO     4698.40 s, Timestep: 424
+08-11 11:26 root         INFO     4698.41 s, Timestep: 425
+08-11 11:26 root         INFO     4698.43 s, Timestep: 426
+08-11 11:26 root         INFO     4698.44 s, Timestep: 427
+08-11 11:26 root         INFO     4698.45 s, Timestep: 428
+08-11 11:26 root         INFO     4698.46 s, Timestep: 429
+08-11 11:26 root         INFO     4698.47 s, Timestep: 430
+08-11 11:26 root         INFO     4698.48 s, Timestep: 431
+08-11 11:26 root         INFO     4698.50 s, Timestep: 432
+08-11 11:26 root         INFO     4698.51 s, Timestep: 433
+08-11 11:26 root         INFO     4698.52 s, Timestep: 434
+08-11 11:26 root         INFO     4698.53 s, Timestep: 435
+08-11 11:26 root         INFO     4698.55 s, Timestep: 436
+08-11 11:26 root         INFO     4698.56 s, Timestep: 437
+08-11 11:26 root         INFO     4698.57 s, Timestep: 438
+08-11 11:26 root         INFO     4698.58 s, Timestep: 439
+08-11 11:26 root         INFO     4698.60 s, Timestep: 440
+08-11 11:26 root         INFO     4698.61 s, Timestep: 441
+08-11 11:26 root         INFO     4698.62 s, Timestep: 442
+08-11 11:26 root         INFO     4698.63 s, Timestep: 443
+08-11 11:26 root         INFO     4698.64 s, Timestep: 444
+08-11 11:26 root         INFO     4698.65 s, Timestep: 445
+08-11 11:26 root         INFO     4698.66 s, Timestep: 446
+08-11 11:26 root         INFO     4698.68 s, Timestep: 447
+08-11 11:26 root         INFO     4698.70 s, Timestep: 448
+08-11 11:26 root         INFO     4698.70 s, Timestep: 449
+08-11 11:26 root         INFO     4698.71 s, Timestep: 450
+08-11 11:26 root         INFO     4698.72 s, Timestep: 451
+08-11 11:26 root         INFO     4698.73 s, Timestep: 452
+08-11 11:26 root         INFO     4698.74 s, Timestep: 453
+08-11 11:26 root         INFO     4698.75 s, Timestep: 454
+08-11 11:26 root         INFO     4698.76 s, Timestep: 455
+08-11 11:26 root         INFO     4698.77 s, Timestep: 456
+08-11 11:26 root         INFO     4698.78 s, Timestep: 457
+08-11 11:26 root         INFO     4698.78 s, Timestep: 458
+08-11 11:26 root         INFO     4698.79 s, Timestep: 459
+08-11 11:26 root         INFO     4698.81 s, Timestep: 460
+08-11 11:26 root         INFO     4698.82 s, Timestep: 461
+08-11 11:26 root         INFO     4698.83 s, Timestep: 462
+08-11 11:26 root         INFO     4698.84 s, Timestep: 463
+08-11 11:26 root         INFO     4698.85 s, Timestep: 464
+08-11 11:26 root         INFO     4698.86 s, Timestep: 465
+08-11 11:26 root         INFO     4698.87 s, Timestep: 466
+08-11 11:26 root         INFO     4698.88 s, Timestep: 467
+08-11 11:26 root         INFO     4698.89 s, Timestep: 468
+08-11 11:26 root         INFO     4698.90 s, Timestep: 469
+08-11 11:26 root         INFO     4698.91 s, Timestep: 470
+08-11 11:26 root         INFO     4698.93 s, Timestep: 471
+08-11 11:26 root         INFO     4698.94 s, Timestep: 472
+08-11 11:26 root         INFO     4698.95 s, Timestep: 473
+08-11 11:26 root         INFO     4698.95 s, Timestep: 474
+08-11 11:26 root         INFO     4698.96 s, Timestep: 475
+08-11 11:26 root         INFO     4698.97 s, Timestep: 476
+08-11 11:26 root         INFO     4698.98 s, Timestep: 477
+08-11 11:26 root         INFO     4699.00 s, Timestep: 478
+08-11 11:26 root         INFO     4699.01 s, Timestep: 479
+08-11 11:26 root         INFO     4699.02 s, Timestep: 480
+08-11 11:26 root         INFO     4699.03 s, Timestep: 481
+08-11 11:26 root         INFO     4699.04 s, Timestep: 482
+08-11 11:26 root         INFO     4699.04 s, Timestep: 483
+08-11 11:26 root         INFO     4699.07 s, Timestep: 484
+08-11 11:26 root         INFO     4699.08 s, Timestep: 485
+08-11 11:26 root         INFO     4699.11 s, Timestep: 486
+08-11 11:26 root         INFO     4699.13 s, Timestep: 487
+08-11 11:26 root         INFO     4699.15 s, Timestep: 488
+08-11 11:26 root         INFO     4699.16 s, Timestep: 489
+08-11 11:26 root         INFO     4699.17 s, Timestep: 490
+08-11 11:26 root         INFO     4699.18 s, Timestep: 491
+08-11 11:26 root         INFO     4699.19 s, Timestep: 492
+08-11 11:26 root         INFO     4699.20 s, Timestep: 493
+08-11 11:26 root         INFO     4699.21 s, Timestep: 494
+08-11 11:26 root         INFO     4699.21 s, Timestep: 495
+08-11 11:26 root         INFO     4699.22 s, Timestep: 496
+08-11 11:26 root         INFO     4699.23 s, Timestep: 497
+08-11 11:26 root         INFO     4699.24 s, Timestep: 498
+08-11 11:26 root         INFO     4699.25 s, Timestep: 499
+08-11 11:26 root         INFO     4699.26 s, Timestep: 500
+08-11 11:26 root         INFO     4699.27 s, Timestep: 501
+08-11 11:26 root         INFO     4699.32 s, Timestep: 502
+08-11 11:26 root         INFO     4699.34 s, Timestep: 503
+08-11 11:26 root         INFO     4699.34 s, Timestep: 504
+08-11 11:26 root         INFO     4699.36 s, Timestep: 505
+08-11 11:26 root         INFO     4699.37 s, Timestep: 506
+08-11 11:26 root         INFO     4699.38 s, Timestep: 507
+08-11 11:26 root         INFO     4699.39 s, Timestep: 508
+08-11 11:26 root         INFO     4699.40 s, Timestep: 509
+08-11 11:26 root         INFO     4699.41 s, Timestep: 510
+08-11 11:26 root         INFO     4699.42 s, Timestep: 511
+08-11 11:26 root         INFO     4699.42 s, Timestep: 512
+08-11 11:26 root         INFO     4699.43 s, Timestep: 513
+08-11 11:26 root         INFO     4699.44 s, Timestep: 514
+08-11 11:26 root         INFO     4699.45 s, Timestep: 515
+08-11 11:26 root         INFO     4699.46 s, Timestep: 516
+08-11 11:26 root         INFO     4699.46 s, Timestep: 517
+08-11 11:26 root         INFO     4699.47 s, Timestep: 518
+08-11 11:26 root         INFO     4699.48 s, Timestep: 519
+08-11 11:26 root         INFO     4699.48 s, Timestep: 520
+08-11 11:26 root         INFO     4699.49 s, Timestep: 521
+08-11 11:26 root         INFO     4699.50 s, Timestep: 522
+08-11 11:26 root         INFO     4699.50 s, Timestep: 523
+08-11 11:26 root         INFO     4699.51 s, Timestep: 524
+08-11 11:26 root         INFO     4699.52 s, Timestep: 525
+08-11 11:26 root         INFO     4699.53 s, Timestep: 526
+08-11 11:26 root         INFO     4699.53 s, Timestep: 527
+08-11 11:26 root         INFO     4699.54 s, Timestep: 528
+08-11 11:26 root         INFO     4699.55 s, Timestep: 529
+08-11 11:26 root         INFO     4699.56 s, Timestep: 530
+08-11 11:26 root         INFO     4699.57 s, Timestep: 531
+08-11 11:26 root         INFO     4699.58 s, Timestep: 532
+08-11 11:26 root         INFO     4699.59 s, Timestep: 533
+08-11 11:26 root         INFO     4699.64 s, Timestep: 534
+08-11 11:26 root         INFO     4699.67 s, Timestep: 535
+08-11 11:26 root         INFO     4699.68 s, Timestep: 536
+08-11 11:26 root         INFO     4699.69 s, Timestep: 537
+08-11 11:26 root         INFO     4699.71 s, Timestep: 538
+08-11 11:26 root         INFO     4699.73 s, Timestep: 539
+08-11 11:26 root         INFO     4699.75 s, Timestep: 540
+08-11 11:26 root         INFO     4699.76 s, Timestep: 541
+08-11 11:26 root         INFO     4699.77 s, Timestep: 542
+08-11 11:26 root         INFO     4699.78 s, Timestep: 543
+08-11 11:26 root         INFO     4699.80 s, Timestep: 544
+08-11 11:26 root         INFO     4699.80 s, Timestep: 545
+08-11 11:26 root         INFO     4699.81 s, Timestep: 546
+08-11 11:26 root         INFO     4699.82 s, Timestep: 547
+08-11 11:26 root         INFO     4699.82 s, Timestep: 548
+08-11 11:26 root         INFO     4699.83 s, Timestep: 549
+08-11 11:26 root         INFO     4699.84 s, Timestep: 550
+08-11 11:26 root         INFO     4699.85 s, Timestep: 551
+08-11 11:26 root         INFO     4699.85 s, Timestep: 552
+08-11 11:26 root         INFO     4699.86 s, Timestep: 553
+08-11 11:26 root         INFO     4699.87 s, Timestep: 554
+08-11 11:26 root         INFO     4699.87 s, Timestep: 555
+08-11 11:26 root         INFO     4699.88 s, Timestep: 556
+08-11 11:26 root         INFO     4699.89 s, Timestep: 557
+08-11 11:26 root         INFO     4699.90 s, Timestep: 558
+08-11 11:26 root         INFO     4699.91 s, Timestep: 559
+08-11 11:26 root         INFO     4699.93 s, Timestep: 560
+08-11 11:26 root         INFO     4699.96 s, Timestep: 561
+08-11 11:26 root         INFO     4699.97 s, Timestep: 562
+08-11 11:26 root         INFO     4699.98 s, Timestep: 563
+08-11 11:26 root         INFO     4699.98 s, Timestep: 564
+08-11 11:26 root         INFO     4699.99 s, Timestep: 565
+08-11 11:26 root         INFO     4700.00 s, Timestep: 566
+08-11 11:26 root         INFO     4700.00 s, Timestep: 567
+08-11 11:26 root         INFO     4700.01 s, Timestep: 568
+08-11 11:26 root         INFO     4700.02 s, Timestep: 569
+08-11 11:26 root         INFO     4700.02 s, Timestep: 570
+08-11 11:26 root         INFO     4700.03 s, Timestep: 571
+08-11 11:26 root         INFO     4700.04 s, Timestep: 572
+08-11 11:26 root         INFO     4700.04 s, Timestep: 573
+08-11 11:26 root         INFO     4700.05 s, Timestep: 574
+08-11 11:26 root         INFO     4700.06 s, Timestep: 575
+08-11 11:26 root         INFO     4700.06 s, Timestep: 576
+08-11 11:26 root         INFO     4700.07 s, Timestep: 577
+08-11 11:26 root         INFO     4700.07 s, Timestep: 578
+08-11 11:26 root         INFO     4700.08 s, Timestep: 579
+08-11 11:26 root         INFO     4700.08 s, Timestep: 580
+08-11 11:26 root         INFO     4700.09 s, Timestep: 581
+08-11 11:26 root         INFO     4700.10 s, Timestep: 582
+08-11 11:26 root         INFO     4700.10 s, Timestep: 583
+08-11 11:26 root         INFO     4700.11 s, Timestep: 584
+08-11 11:26 root         INFO     4700.12 s, Timestep: 585
+08-11 11:26 root         INFO     4700.13 s, Timestep: 586
+08-11 11:26 root         INFO     4700.14 s, Timestep: 587
+08-11 11:26 root         INFO     4700.14 s, Timestep: 588
+08-11 11:26 root         INFO     4700.15 s, Timestep: 589
+08-11 11:26 root         INFO     4700.16 s, Timestep: 590
+08-11 11:26 root         INFO     4700.16 s, Timestep: 591
+08-11 11:26 root         INFO     4700.17 s, Timestep: 592
+08-11 11:26 root         INFO     4700.17 s, Timestep: 593
+08-11 11:26 root         INFO     4700.18 s, Timestep: 594
+08-11 11:26 root         INFO     4700.19 s, Timestep: 595
+08-11 11:26 root         INFO     4700.21 s, Timestep: 596
+08-11 11:26 root         INFO     4700.21 s, Timestep: 597
+08-11 11:26 root         INFO     4700.23 s, Timestep: 598
+08-11 11:26 root         INFO     4700.24 s, Timestep: 599
+08-11 11:26 root         INFO     4700.25 s, Timestep: 600
+08-11 11:26 root         INFO     4700.25 s, Timestep: 601
+08-11 11:26 root         INFO     4700.26 s, Timestep: 602
+08-11 11:26 root         INFO     4700.28 s, Timestep: 603
+08-11 11:26 root         INFO     4700.29 s, Timestep: 604
+08-11 11:26 root         INFO     4700.30 s, Timestep: 605
+08-11 11:26 root         INFO     4700.31 s, Timestep: 606
+08-11 11:26 root         INFO     4700.32 s, Timestep: 607
+08-11 11:26 root         INFO     4700.33 s, Timestep: 608
+08-11 11:26 root         INFO     4700.33 s, Timestep: 609
+08-11 11:26 root         INFO     4700.35 s, Timestep: 610
+08-11 11:26 root         INFO     4700.35 s, Timestep: 611
+08-11 11:26 root         INFO     4700.36 s, Timestep: 612
+08-11 11:26 root         INFO     4700.36 s, Timestep: 613
+08-11 11:26 root         INFO     4700.37 s, Timestep: 614
+08-11 11:26 root         INFO     4700.38 s, Timestep: 615
+08-11 11:26 root         INFO     4700.39 s, Timestep: 616
+08-11 11:26 root         INFO     4700.39 s, Timestep: 617
+08-11 11:26 root         INFO     4700.40 s, Timestep: 618
+08-11 11:26 root         INFO     4700.42 s, Timestep: 619
+08-11 11:26 root         INFO     4700.43 s, Timestep: 620
+08-11 11:26 root         INFO     4700.45 s, Timestep: 621
+08-11 11:26 root         INFO     4700.47 s, Timestep: 622
+08-11 11:26 root         INFO     4700.48 s, Timestep: 623
+08-11 11:26 root         INFO     4700.49 s, Timestep: 624
+08-11 11:26 root         INFO     4700.50 s, Timestep: 625
+08-11 11:26 root         INFO     4700.50 s, Timestep: 626
+08-11 11:26 root         INFO     4700.51 s, Timestep: 627
+08-11 11:26 root         INFO     4700.52 s, Timestep: 628
+08-11 11:26 root         INFO     4700.53 s, Timestep: 629
+08-11 11:26 root         INFO     4700.54 s, Timestep: 630
+08-11 11:26 root         INFO     4700.54 s, Timestep: 631
+08-11 11:26 root         INFO     4700.55 s, Timestep: 632
+08-11 11:26 root         INFO     4700.55 s, Timestep: 633
+08-11 11:26 root         INFO     4700.56 s, Timestep: 634
+08-11 11:26 root         INFO     4700.57 s, Timestep: 635
+08-11 11:26 root         INFO     4700.57 s, Timestep: 636
+08-11 11:26 root         INFO     4700.59 s, Timestep: 637
+08-11 11:26 root         INFO     4700.60 s, Timestep: 638
+08-11 11:26 root         INFO     4700.60 s, Timestep: 639
+08-11 11:26 root         INFO     4700.61 s, Timestep: 640
+08-11 11:26 root         INFO     4700.62 s, Timestep: 641
+08-11 11:26 root         INFO     4700.62 s, Timestep: 642
+08-11 11:26 root         INFO     4700.63 s, Timestep: 643
+08-11 11:26 root         INFO     4700.64 s, Timestep: 644
+08-11 11:26 root         INFO     4700.64 s, Timestep: 645
+08-11 11:26 root         INFO     4700.65 s, Timestep: 646
+08-11 11:26 root         INFO     4700.66 s, Timestep: 647
+08-11 11:26 root         INFO     4700.66 s, Timestep: 648
+08-11 11:26 root         INFO     4700.67 s, Timestep: 649
+08-11 11:26 root         INFO     4700.67 s, Timestep: 650
+08-11 11:26 root         INFO     4700.68 s, Timestep: 651
+08-11 11:26 root         INFO     4700.68 s, Timestep: 652
+08-11 11:26 root         INFO     4700.68 s, Timestep: 653
+08-11 11:26 root         INFO     4700.69 s, Timestep: 654
+08-11 11:26 root         INFO     4700.69 s, Timestep: 655
+08-11 11:26 root         INFO     4700.70 s, Timestep: 656
+08-11 11:26 root         INFO     4700.70 s, Timestep: 657
+08-11 11:26 root         INFO     4700.70 s, Timestep: 658
+08-11 11:26 root         INFO     4700.71 s, Timestep: 659
+08-11 11:26 root         INFO     4700.71 s, Timestep: 660
+08-11 11:26 root         INFO     4700.72 s, Timestep: 661
+08-11 11:26 root         INFO     4700.72 s, Timestep: 662
+08-11 11:26 root         INFO     4700.73 s, Timestep: 663
+08-11 11:26 root         INFO     4700.73 s, Timestep: 664
+08-11 11:26 root         INFO     4700.74 s, Timestep: 665
+08-11 11:26 root         INFO     4700.74 s, Timestep: 666
+08-11 11:26 root         INFO     4700.75 s, Timestep: 667
+08-11 11:26 root         INFO     4700.75 s, Timestep: 668
+08-11 11:26 root         INFO     4700.79 s, Timestep: 669
+08-11 11:26 root         INFO     4700.79 s, Timestep: 670
+08-11 11:26 root         INFO     4700.80 s, Timestep: 671
+08-11 11:26 root         INFO     4700.81 s, Timestep: 672
+08-11 11:26 root         INFO     4700.81 s, Timestep: 673
+08-11 11:26 root         INFO     4700.82 s, Timestep: 674
+08-11 11:26 root         INFO     4700.82 s, Timestep: 675
+08-11 11:26 root         INFO     4700.84 s, Timestep: 676
+08-11 11:26 root         INFO     4700.84 s, Timestep: 677
+08-11 11:26 root         INFO     4700.85 s, Timestep: 678
+08-11 11:26 root         INFO     4700.86 s, Timestep: 679
+08-11 11:26 root         INFO     4700.86 s, Timestep: 680
+08-11 11:26 root         INFO     4700.87 s, Timestep: 681
+08-11 11:26 root         INFO     4700.87 s, Timestep: 682
+08-11 11:26 root         INFO     4700.88 s, Timestep: 683
+08-11 11:26 root         INFO     4700.88 s, Timestep: 684
+08-11 11:26 root         INFO     4700.89 s, Timestep: 685
+08-11 11:26 root         INFO     4700.89 s, Timestep: 686
+08-11 11:26 root         INFO     4700.90 s, Timestep: 687
+08-11 11:26 root         INFO     4700.91 s, Timestep: 688
+08-11 11:26 root         INFO     4700.92 s, Timestep: 689
+08-11 11:26 root         INFO     4700.92 s, Timestep: 690
+08-11 11:26 root         INFO     4700.93 s, Timestep: 691
+08-11 11:26 root         INFO     4700.93 s, Timestep: 692
+08-11 11:26 root         INFO     4700.94 s, Timestep: 693
+08-11 11:26 root         INFO     4700.94 s, Timestep: 694
+08-11 11:26 root         INFO     4700.95 s, Timestep: 695
+08-11 11:26 root         INFO     4700.96 s, Timestep: 696
+08-11 11:26 root         INFO     4700.96 s, Timestep: 697
+08-11 11:26 root         INFO     4700.97 s, Timestep: 698
+08-11 11:26 root         INFO     4700.97 s, Timestep: 699
+08-11 11:26 root         INFO     4700.97 s, Timestep: 700
+08-11 11:26 root         INFO     4700.98 s, Timestep: 701
+08-11 11:26 root         INFO     4700.98 s, Timestep: 702
+08-11 11:26 root         INFO     4700.98 s, Timestep: 703
+08-11 11:26 root         INFO     4700.99 s, Timestep: 704
+08-11 11:26 root         INFO     4700.99 s, Timestep: 705
+08-11 11:26 root         INFO     4700.99 s, Timestep: 706
+08-11 11:26 root         INFO     4701.00 s, Timestep: 707
+08-11 11:26 root         INFO     4701.00 s, Timestep: 708
+08-11 11:26 root         INFO     4701.01 s, Timestep: 709
+08-11 11:26 root         INFO     4701.01 s, Timestep: 710
+08-11 11:26 root         INFO     4701.02 s, Timestep: 711
+08-11 11:26 root         INFO     4701.02 s, Timestep: 712
+08-11 11:26 root         INFO     4701.03 s, Timestep: 713
+08-11 11:26 root         INFO     4701.04 s, Timestep: 714
+08-11 11:26 root         INFO     4701.04 s, Timestep: 715
+08-11 11:26 root         INFO     4701.05 s, Timestep: 716
+08-11 11:26 root         INFO     4701.05 s, Timestep: 717
+08-11 11:26 root         INFO     4701.06 s, Timestep: 718
+08-11 11:26 root         INFO     4701.07 s, Timestep: 719
+08-11 11:26 root         INFO     4701.07 s, Timestep: 720
+08-11 11:26 root         INFO     4701.07 s, Timestep: 721
+08-11 11:26 root         INFO     4701.08 s, Timestep: 722
+08-11 11:26 root         INFO     4701.08 s, Timestep: 723
+08-11 11:26 root         INFO     4701.08 s, Timestep: 724
+08-11 11:26 root         INFO     4701.09 s, Timestep: 725
+08-11 11:26 root         INFO     4701.09 s, Timestep: 726
+08-11 11:26 root         INFO     4701.09 s, Timestep: 727
+08-11 11:26 root         INFO     4701.10 s, Timestep: 728
+08-11 11:26 root         INFO     4701.10 s, Timestep: 729
+08-11 11:26 root         INFO     4701.10 s, Timestep: 730
+08-11 11:26 root         INFO     4701.11 s, Timestep: 731
+08-11 11:26 root         INFO     4701.11 s, Timestep: 732
+08-11 11:26 root         INFO     4701.12 s, Timestep: 733
+08-11 11:26 root         INFO     4701.12 s, Timestep: 734
+08-11 11:26 root         INFO     4701.12 s, Timestep: 735
+08-11 11:26 root         INFO     4701.13 s, Timestep: 736
+08-11 11:26 root         INFO     4701.13 s, Timestep: 737
+08-11 11:26 root         INFO     4701.13 s, Timestep: 738
+08-11 11:26 root         INFO     4701.13 s, Timestep: 739
+08-11 11:26 root         INFO     4701.13 s, Timestep: 740
+08-11 11:26 root         INFO     4701.14 s, Timestep: 741
+08-11 11:26 root         INFO     4701.15 s, Timestep: 742
+08-11 11:26 root         INFO     4701.15 s, Timestep: 743
+08-11 11:26 root         INFO     4701.15 s, Timestep: 744
+08-11 11:26 root         INFO     4701.16 s, Timestep: 745
+08-11 11:26 root         INFO     4701.16 s, Timestep: 746
+08-11 11:26 root         INFO     4701.17 s, Timestep: 747
+08-11 11:26 root         INFO     4701.17 s, Timestep: 748
+08-11 11:26 root         INFO     4701.18 s, Timestep: 749
+08-11 11:26 root         INFO     4701.19 s, Timestep: 750
+08-11 11:26 root         INFO     4701.19 s, Timestep: 751
+08-11 11:26 root         INFO     4701.19 s, Timestep: 752
+08-11 11:26 root         INFO     4701.19 s, Timestep: 753
+08-11 11:26 root         INFO     4701.20 s, Timestep: 754
+08-11 11:26 root         INFO     4701.20 s, Timestep: 755
+08-11 11:26 root         INFO     4701.20 s, Timestep: 756
+08-11 11:26 root         INFO     4701.21 s, Timestep: 757
+08-11 11:26 root         INFO     4701.21 s, Timestep: 758
+08-11 11:26 root         INFO     4701.21 s, Timestep: 759
+08-11 11:26 root         INFO     4701.22 s, Timestep: 760
+08-11 11:26 root         INFO     4701.22 s, Timestep: 761
+08-11 11:26 root         INFO     4701.22 s, Timestep: 762
+08-11 11:26 root         INFO     4701.23 s, Timestep: 763
+08-11 11:26 root         INFO     4701.23 s, Timestep: 764
+08-11 11:26 root         INFO     4701.24 s, Timestep: 765
+08-11 11:26 root         INFO     4701.24 s, Timestep: 766
+08-11 11:26 root         INFO     4701.24 s, Timestep: 767
+08-11 11:26 root         INFO     4701.25 s, Timestep: 768
+08-11 11:26 root         INFO     4701.25 s, Timestep: 769
+08-11 11:26 root         INFO     4701.25 s, Timestep: 770
+08-11 11:26 root         INFO     4701.25 s, Timestep: 771
+08-11 11:26 root         INFO     4701.26 s, Timestep: 772
+08-11 11:26 root         INFO     4701.26 s, Timestep: 773
+08-11 11:26 root         INFO     4701.26 s, Timestep: 774
+08-11 11:26 root         INFO     4701.26 s, Timestep: 775
+08-11 11:26 root         INFO     4701.27 s, Timestep: 776
+08-11 11:26 root         INFO     4701.27 s, Timestep: 777
+08-11 11:26 root         INFO     4701.27 s, Timestep: 778
+08-11 11:26 root         INFO     4701.28 s, Timestep: 779
+08-11 11:26 root         INFO     4701.28 s, Timestep: 780
+08-11 11:26 root         INFO     4701.28 s, Timestep: 781
+08-11 11:26 root         INFO     4701.28 s, Timestep: 782
+08-11 11:26 root         INFO     4701.29 s, Timestep: 783
+08-11 11:26 root         INFO     4701.29 s, Timestep: 784
+08-11 11:26 root         INFO     4701.29 s, Timestep: 785
+08-11 11:26 root         INFO     4701.29 s, Timestep: 786
+08-11 11:26 root         INFO     4701.30 s, Timestep: 787
+08-11 11:26 root         INFO     4701.30 s, Timestep: 788
+08-11 11:26 root         INFO     4701.30 s, Timestep: 789
+08-11 11:26 root         INFO     4701.30 s, Timestep: 790
+08-11 11:26 root         INFO     4701.31 s, Timestep: 791
+08-11 11:26 root         INFO     4701.31 s, Timestep: 792
+08-11 11:26 root         INFO     4701.31 s, Timestep: 793
+08-11 11:26 root         INFO     4701.31 s, Timestep: 794
+08-11 11:26 root         INFO     4701.32 s, Timestep: 795
+08-11 11:26 root         INFO     4701.32 s, Timestep: 796
+08-11 11:26 root         INFO     4701.32 s, Timestep: 797
+08-11 11:26 root         INFO     4701.32 s, Timestep: 798
+08-11 11:26 root         INFO     4701.33 s, Timestep: 799
+08-11 11:26 root         INFO     4701.33 s, Timestep: 800
+08-11 11:26 root         INFO     4701.33 s, Timestep: 801
+08-11 11:26 root         INFO     4701.33 s, Timestep: 802
+08-11 11:26 root         INFO     4701.33 s, Timestep: 803
+08-11 11:26 root         INFO     4701.34 s, Timestep: 804
+08-11 11:26 root         INFO     4701.34 s, Timestep: 805
+08-11 11:26 root         INFO     4701.34 s, Timestep: 806
+08-11 11:26 root         INFO     4701.34 s, Timestep: 807
+08-11 11:26 root         INFO     4701.34 s, Timestep: 808
+08-11 11:26 root         INFO     4701.34 s, Timestep: 809
+08-11 11:26 root         INFO     4701.34 s, Timestep: 810
+08-11 11:26 root         INFO     4701.35 s, Timestep: 811
+08-11 11:26 root         INFO     4701.35 s, Timestep: 812
+08-11 11:26 root         INFO     4701.35 s, Timestep: 813
+08-11 11:26 root         INFO     4701.35 s, Timestep: 814
+08-11 11:26 root         INFO     4701.35 s, Timestep: 815
+08-11 11:26 root         INFO     4701.35 s, Timestep: 816
+08-11 11:26 root         INFO     4701.35 s, Timestep: 817
+08-11 11:26 root         INFO     4701.36 s, Timestep: 818
+08-11 11:26 root         INFO     4701.36 s, Timestep: 819
+08-11 11:26 root         INFO     4701.36 s, Timestep: 820
+08-11 11:26 root         INFO     4701.36 s, Timestep: 821
+08-11 11:26 root         INFO     4701.36 s, Timestep: 822
+08-11 11:26 root         INFO     4701.36 s, Timestep: 823
+08-11 11:26 root         INFO     4701.36 s, Timestep: 824
+08-11 11:26 root         INFO     4701.37 s, Timestep: 825
+08-11 11:26 root         INFO     4701.37 s, Timestep: 826
+08-11 11:26 root         INFO     4701.37 s, Timestep: 827
+08-11 11:26 root         INFO     4701.37 s, Timestep: 828
+08-11 11:26 root         INFO     4701.37 s, Timestep: 829
+08-11 11:26 root         INFO     4701.37 s, Timestep: 830
+08-11 11:26 root         INFO     4701.37 s, Timestep: 831
+08-11 11:26 root         INFO     4701.37 s, Timestep: 832
+08-11 11:26 root         INFO     4701.37 s, Timestep: 833
+08-11 11:26 root         INFO     4701.38 s, Timestep: 834
+08-11 11:26 root         INFO     4701.38 s, Timestep: 835
+08-11 11:26 root         INFO     4701.38 s, Timestep: 836
+08-11 11:26 root         INFO     4701.38 s, Timestep: 837
+08-11 11:26 root         INFO     4701.38 s, Timestep: 838
+08-11 11:26 root         INFO     4701.38 s, Timestep: 839
+08-11 11:26 root         INFO     4701.38 s, Timestep: 840
+08-11 11:26 root         INFO     4701.38 s, Timestep: 841
+08-11 11:26 root         INFO     4701.38 s, Timestep: 842
+08-11 11:26 root         INFO     4701.39 s, Timestep: 843
+08-11 11:26 root         INFO     4701.39 s, Timestep: 844
+08-11 11:26 root         INFO     4701.39 s, Timestep: 845
+08-11 11:26 root         INFO     4701.39 s, Timestep: 846
+08-11 11:26 root         INFO     4701.39 s, Timestep: 847
+08-11 11:26 root         INFO     4701.39 s, Timestep: 848
+08-11 11:26 root         INFO     4701.39 s, Timestep: 849
+08-11 11:26 root         INFO     4701.39 s, Timestep: 850
+08-11 11:26 root         INFO     4701.40 s, Timestep: 851
+08-11 11:26 root         INFO     4701.40 s, Timestep: 852
+08-11 11:26 root         INFO     4701.40 s, Timestep: 853
+08-11 11:26 root         INFO     4701.40 s, Timestep: 854
+08-11 11:26 root         INFO     4701.40 s, Timestep: 855
+08-11 11:26 root         INFO     4701.41 s, Timestep: 856
+08-11 11:26 root         INFO     4701.41 s, Timestep: 857
+08-11 11:26 root         INFO     4701.41 s, Timestep: 858
+08-11 11:26 root         INFO     4701.41 s, Timestep: 859
+08-11 11:26 root         INFO     4701.41 s, Timestep: 860
+08-11 11:26 root         INFO     4701.42 s, Timestep: 861
+08-11 11:26 root         INFO     4701.42 s, Timestep: 862
+08-11 11:26 root         INFO     4701.42 s, Timestep: 863
+08-11 11:26 root         INFO     4701.42 s, Timestep: 864
+08-11 11:26 root         INFO     4701.42 s, Timestep: 865
+08-11 11:26 root         INFO     4701.42 s, Timestep: 866
+08-11 11:26 root         INFO     4701.42 s, Timestep: 867
+08-11 11:26 root         INFO     4701.43 s, Timestep: 868
+08-11 11:26 root         INFO     4701.43 s, Timestep: 869
+08-11 11:26 root         INFO     4701.43 s, Timestep: 870
+08-11 11:26 root         INFO     4701.43 s, Timestep: 871
+08-11 11:26 root         INFO     4701.43 s, Timestep: 872
+08-11 11:26 root         INFO     4701.43 s, Timestep: 873
+08-11 11:26 root         INFO     4701.43 s, Timestep: 874
+08-11 11:26 root         INFO     4701.44 s, Timestep: 875
+08-11 11:26 root         INFO     4701.44 s, Timestep: 876
+08-11 11:26 root         INFO     4701.44 s, Timestep: 877
+08-11 11:26 root         INFO     4701.44 s, Timestep: 878
+08-11 11:26 root         INFO     4701.44 s, Timestep: 879
+08-11 11:26 root         INFO     4701.44 s, Timestep: 880
+08-11 11:26 root         INFO     4701.44 s, Timestep: 881
+08-11 11:26 root         INFO     4701.45 s, Timestep: 882
+08-11 11:26 root         INFO     4701.45 s, Timestep: 883
+08-11 11:26 root         INFO     4701.45 s, Timestep: 884
+08-11 11:26 root         INFO     4701.45 s, Timestep: 885
+08-11 11:26 root         INFO     4701.45 s, Timestep: 886
+08-11 11:26 root         INFO     4701.45 s, Timestep: 887
+08-11 11:26 root         INFO     4701.45 s, Timestep: 888
+08-11 11:26 root         INFO     4701.45 s, Timestep: 889
+08-11 11:26 root         INFO     4701.45 s, Timestep: 890
+08-11 11:26 root         INFO     4701.46 s, Timestep: 891
+08-11 11:26 root         INFO     4701.46 s, Timestep: 892
+08-11 11:26 root         INFO     4701.46 s, Timestep: 893
+08-11 11:26 root         INFO     4701.46 s, Timestep: 894
+08-11 11:26 root         INFO     4701.46 s, Timestep: 895
+08-11 11:26 root         INFO     4701.47 s, Timestep: 896
+08-11 11:26 root         INFO     4701.47 s, Timestep: 897
+08-11 11:26 root         INFO     4701.47 s, Timestep: 898
+08-11 11:26 root         INFO     4701.47 s, Timestep: 899
+08-11 11:26 root         INFO     4701.47 s, Timestep: 900
+08-11 11:26 root         INFO     4701.47 s, Timestep: 901
+08-11 11:26 root         INFO     4701.47 s, Timestep: 902
+08-11 11:26 root         INFO     4701.47 s, Timestep: 903
+08-11 11:26 root         INFO     4701.47 s, Timestep: 904
+08-11 11:26 root         INFO     4701.47 s, Timestep: 905
+08-11 11:26 root         INFO     4701.47 s, Timestep: 906
+08-11 11:26 root         INFO     4701.47 s, Timestep: 907
+08-11 11:26 root         INFO     4701.47 s, Timestep: 908
+08-11 11:26 root         INFO     4701.48 s, Timestep: 909
+08-11 11:26 root         INFO     4701.48 s, Timestep: 910
+08-11 11:26 root         INFO     4701.48 s, Timestep: 911
+08-11 11:26 root         INFO     4701.48 s, Timestep: 912
+08-11 11:26 root         INFO     4701.48 s, Timestep: 913
+08-11 11:26 root         INFO     4701.48 s, Timestep: 914
+08-11 11:26 root         INFO     4701.48 s, Timestep: 915
+08-11 11:26 root         INFO     4701.48 s, Timestep: 916
+08-11 11:26 root         INFO     4701.48 s, Timestep: 917
+08-11 11:26 root         INFO     4701.49 s, Timestep: 918
