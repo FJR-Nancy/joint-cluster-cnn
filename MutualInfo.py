@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 def MutualInfo(L1,L2):
     # mutual information
@@ -20,12 +19,12 @@ def MutualInfo(L1,L2):
     
     if nClass2 < nClass:
          # smooth
-         L1 = np.matrix([[L1], [Label1]])
-         L2 = np.matrix([[L2], [Label1]])
+         L1 = np.concatenate((L1, Label1), 0)
+         L2 = np.concatenate((L2, Label1), 0)
     elif nClass2 > nClass:
          # smooth
-         L1 = np.matrix([[L1], [Label2]])
-         L2 = np.matrix([[L2], [Label2]])
+         L1 = np.concatenate((L1, Label2), 0)
+         L2 = np.concatenate((L2, Label2), 0)
     
     G = np.zeros((nClass, nClass))
     for i in range (nClass):

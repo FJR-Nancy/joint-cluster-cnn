@@ -26,11 +26,14 @@ def bestMap(L1,L2):
 			G[i,j] = np.count_nonzero(np.logical_and(L1 == Label1[i], L2 == Label2[j]))
 
 	m = Munkres()
+	# print "begin to compute c..."
 	c = m.compute(-G)
+	# print "finished computing c..."
+
 	#[c,t] = hungarian(-G)
 	newL2 = np.zeros(L2.size)
 	for i in range(nClass2):
 	    #newL2[L2 == Label2[i]] = Label1[c[i][1]]
 		newL2[L2 == Label2[c[i][1]]] = Label1[c[i][0]]
-	
+
 	return newL2
