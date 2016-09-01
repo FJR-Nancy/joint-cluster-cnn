@@ -1,0 +1,14 @@
+#!/usr/local/bin/perl
+
+@command1=('ls *ppm');
+@fileListppm=`@command1`;
+#print "@fileListeps";
+for $flnm(@fileListppm){
+    $flnmppm=$flnm;
+    $flnmppm=~s/\n//;
+    $flnmeps=$flnmppm;
+    $flnmeps=~s/ppm/eps/g;
+    @command2=("convert", $flnmppm, $flnmeps);
+    print "@command2\n"; 
+    `@command2`;
+}
