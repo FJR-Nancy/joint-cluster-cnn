@@ -231,19 +231,19 @@ class joint_cluster_cnn():
         self.logger.info('%.2f s, Nc is %d...', timeit.default_timer() - self.tic, self.Nc)
         return labels
 
-    def get_Dis(self, fea):
+    def get_Dis(self, fea, k):
         # Calculate Dis
         self.logger.info('%.2f s, Begin to fit neighbour graph', timeit.default_timer() - self.tic)
-        neigh = NearestNeighbors(n_neighbors=self.Ks, n_jobs=-1).fit(fea)
+        neigh = NearestNeighbors(n_neighbors=k, n_jobs=-1).fit(fea)
         self.logger.info('%.2f s, Finished fitting, begin to calculate Dis', timeit.default_timer() - self.tic)
         sortedDis, indexDis = neigh.kneighbors()
-        sortedDis = np.power(sortedDis, 2)
         self.logger.info('%.2f s, Finished the calculation of Dis', timeit.default_timer() - self.tic)
 
         return sortedDis, indexDis
 
     def get_A(self, fea, sortedDis, indexDis, C):
         # Calculate W
+        sortedDis = np.power(sortedDis, 2)
         sig2 = sortedDis.sum() / (self.Ks * self.Ns) * self.a
         XI = np.transpose(np.tile(range(self.Ns), (self.Ks, 1)))
         W = csr_matrix((np.exp(-sortedDis.flatten() * (1 / sig2)), (XI.flatten(), indexDis.flatten())),
@@ -470,10 +470,9 @@ class joint_cluster_cnn():
                                 if id_triplet % num_neg_sampling == 0:
                                     break
 
-        self.logger.info('%.2f s, get %d triplets, anc: %d, pos: %d, neg: %d ', timeit.default_timer() - self.tic, num_triplet, anc[-1],pos[-1],neg[-1])
+        # self.logger.info('%.2f s, get %d triplets, anc: %d, pos: %d, neg: %d ', timeit.default_timer() - self.tic, num_triplet, anc[-1],pos[-1],neg[-1])
 
         return anc, pos, neg
-
 
     def train(self, labels):
         with tf.device('/cpu:0'):
@@ -542,21 +541,28 @@ class joint_cluster_cnn():
                              timeit.default_timer() - self.tic, self.p)
             self.p += 1
 
-        return fea
+            return fea
 
     def recurrent_process(self, features, updateCNN):
 
         fea = np.copy(features)
         fea = normalize(fea, axis=1)
 
-        sortedDis, indexDis = self.get_Dis(fea)
-        labels = self.clusters_init(indexDis)
-        self.evaluation(labels)
-
         if updateCNN:
+            sortedDis, indexDis = self.get_Dis(fea, 1)
+            labels = self.clusters_init(indexDis)
+            self.evaluation(labels)
             fea = self.train(labels)
+            sortedDis, indexDis = self.get_Dis(fea, self.Ks)
+        else:
+            sortedDis, indexDis = self.get_Dis(fea, self.Ks)
+            labels = self.clusters_init(indexDis)
+            self.evaluation(labels)
 
-        sortedDis, indexDis = self.get_Dis(fea)
+        # sortedDis, indexDis = self.get_Dis(fea, self.Ks)
+        # labels = self.clusters_init(indexDis)
+        # self.evaluation(labels)
+
         C = self.get_C(labels)
         A, asymA, C = self.get_A(fea, sortedDis, indexDis, C)
 
@@ -569,6 +575,7 @@ class joint_cluster_cnn():
             index1, index2 = self.find_closest_clusters(A)
             A, asymA, C = self.merge_cluster(A, asymA, C, index1, index2)
 
+            # if updateCNN and self.Nc == self.K:
             if updateCNN and t == ts + Np:
                 labels = self.get_labels(C)
                 self.evaluation(labels)
@@ -577,7 +584,7 @@ class joint_cluster_cnn():
                 fea = normalize(fea, axis=1)
 
                 # Update A based on the new feature representation
-                sortedDis, indexDis = self.get_Dis(fea)
+                sortedDis, indexDis = self.get_Dis(fea, self.Ks)
                 A, asymA, C = self.get_A(fea, sortedDis, indexDis, C)
 
                 ts = t
@@ -587,9 +594,11 @@ class joint_cluster_cnn():
 
     def run(self):
         C, fea = self.recurrent_process(self.images, self.updateCNN)
-        np.savetxt('features_'+ self.dataset +'.out', fea)
         labels = self.get_labels(C)
         self.evaluation(labels)
+        if self.updateCNN:
+            np.savez_compressed('features_'+ self.dataset +'.out', fea, 'features')
+            self.logger.info('%.2f s, deep representations saved', timeit.default_timer() - self.tic)
 
         if self.RC:
             self.logger.info('%.2f s, begin to re-run clustering', timeit.default_timer() - self.tic)
