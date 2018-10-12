@@ -1,6 +1,6 @@
 # joint-cluster-cnn
 
-An unofficial implementation of [JULE](https://arxiv.org/pdf/1604.03628 "Title")　 (Joint Unsupervised Learning of Deep Representations and Image Clusters) in TensorFlow.
+An unofficial implementation of [JULE](https://arxiv.org/pdf/1604.03628)　(Joint Unsupervised Learning of Deep Representations and Image Clusters) in TensorFlow.
 
 # File Structure
 Main class:
