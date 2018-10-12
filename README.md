@@ -9,7 +9,7 @@ Main class:
 Test file:
 	test.py
 
-# Result
+# Results
 |Dataset | MNIST-test | USPS | COIL-20 | COIL-100 | UMist | 
 |---|---|---|---|---|---|
 |JC-NL | 0.849 | 0.883 | 0.904 | - | 0.750 |
